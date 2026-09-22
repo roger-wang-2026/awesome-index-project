@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>The Awesome Index — GitHub 精选列表排行</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,500;8..60,600;8..60,700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #12161c;
+    --bg-alt: #171c23;
+    --surface: #1a2029;
+    --surface-hover: #202733;
+    --rule: #2a323e;
+    --rule-soft: #232a34;
+    --ink: #eae7de;
+    --ink-dim: #a7adb8;
+    --ink-faint: #6d7482;
+    --brass: #d4a73d;
+    --brass-dim: #8f7530;
+    --serif: 'Source Serif 4', Georgia, 'Times New Roman', serif;
+    --mono: 'IBM Plex Mono', 'SFMono-Regular', Consolas, monospace;
+    --sysfont: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    padding-top: env(safe-area-inset-top, 0px);
+    padding-bottom: env(safe-area-inset-bottom, 0px);
+  }
+  @media (prefers-color-scheme: light) {
+    :root:not([data-theme="dark"]) {
+      --bg: #f3f1e9; --bg-alt: #ece9de; --surface: #fbfaf5; --surface-hover: #f2efe4;
+      --rule: #d9d4c2; --rule-soft: #e3e0d2; --ink: #201d16; --ink-dim: #5b5748;
+      --ink-faint: #8b8672; --brass: #9c7a1f; --brass-dim: #b8974a;
+    }
+  }
+  :root[data-theme="light"] {
+    --bg: #f3f1e9; --bg-alt: #ece9de; --surface: #fbfaf5; --surface-hover: #f2efe4;
+    --rule: #d9d4c2; --rule-soft: #e3e0d2; --ink: #201d16; --ink-dim: #5b5748;
+    --ink-faint: #8b8672; --brass: #9c7a1f; --brass-dim: #b8974a;
+  }
+  html { scroll-padding-top: env(safe-area-inset-top, 0px); box-sizing: border-box; }
+  *, *::before, *::after { box-sizing: inherit; }
+  html, body { height: 100%; }
+  body { margin: 0; background: var(--bg); color: var(--ink); font-family: var(--sysfont); -webkit-font-smoothing: antialiased; }
+
+  .masthead { position: relative; padding: 56px 28px 40px; border-bottom: 1px solid var(--rule); background: var(--bg-alt); }
+  .masthead-inner { max-width: 880px; margin: 0 auto; }
+  .theme-toggle {
+    position: absolute; top: env(safe-area-inset-top, 0px); right: 20px; margin-top: 20px;
+    background: none; border: 1px solid var(--rule); color: var(--ink-dim);
+    font-family: var(--mono); font-size: 11px; letter-spacing: 0.04em;
+    padding: 6px 10px; border-radius: 3px; cursor: pointer;
+  }
+  .theme-toggle:hover { color: var(--ink); border-color: var(--ink-faint); }
+
+  .kicker { font-family: var(--mono); font-size: 12px; color: var(--brass); letter-spacing: 0.02em; margin: 0 0 14px; }
+  .kicker span { color: var(--ink-faint); }
+
+  h1 { font-family: var(--serif); font-weight: 600; font-size: clamp(34px, 6vw, 54px); line-height: 1.05; margin: 0 0 16px; max-width: 14ch; }
+  .lede { font-family: var(--serif); font-size: 18px; line-height: 1.55; color: var(--ink-dim); max-width: 62ch; margin: 0 0 28px; }
+  .lede em { color: var(--ink); font-style: normal; border-bottom: 1px solid var(--brass-dim); }
+
+  .stats-row { display: flex; gap: 32px; flex-wrap: wrap; padding-top: 22px; border-top: 1px solid var(--rule-soft); }
+  .stat .num { font-family: var(--mono); font-size: 22px; color: var(--ink); font-weight: 600; }
+  .stat .label { font-family: var(--mono); font-size: 11px; color: var(--ink-faint); margin-top: 2px; }
+
+  .controls-bar { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; background: var(--bg); border-bottom: 1px solid var(--rule); padding: 14px 28px; }
+  .controls-inner { max-width: 880px; margin: 0 auto; display: flex; gap: 12px; align-items: center; flex-wrap: wrap; }
+  .search-wrap { flex: 1 1 240px; position: relative; }
+  .search-wrap input {
+    width: 100%; background: var(--surface); border: 1px solid var(--rule); color: var(--ink);
+    font-family: var(--mono); font-size: 13px; padding: 10px 12px 10px 30px; border-radius: 4px; outline: none;
+  }
+  .search-wrap input:focus { border-color: var(--brass-dim); }
+  .search-wrap input::placeholder { color: var(--ink-faint); }
+  .search-wrap::before {
+    content: "⌕"; position: absolute; left: 10px; top: 50%; transform: translateY(-50%);
+    color: var(--ink-faint); font-size: 15px; pointer-events: none;
+  }
+  .sort-group { display: flex; gap: 6px; font-family: var(--mono); font-size: 12px; }
+  .sort-btn { background: var(--surface); border: 1px solid var(--rule); color: var(--ink-dim); padding: 9px 12px; border-radius: 4px; cursor: pointer; }
+  .sort-btn.active { color: var(--bg); background: var(--brass); border-color: var(--brass); font-weight: 600; }
+  .sort-btn:hover:not(.active) { color: var(--ink); border-color: var(--ink-faint); }
+
+  .list-wrap { max-width: 880px; margin: 0 auto; padding: 8px 28px 80px; }
+  .row { display: grid; grid-template-columns: 44px 1fr auto; gap: 16px; align-items: start; padding: 18px 4px; border-bottom: 1px solid var(--rule-soft); text-decoration: none; color: inherit; }
+  .row:hover { background: var(--surface-hover); }
+  .rank { font-family: var(--mono); font-size: 15px; color: var(--ink-faint); padding-top: 3px; text-align: right; }
+  .row:nth-child(-n+3) .rank { color: var(--brass); font-weight: 600; }
+
+  .repo-main { min-width: 0; }
+  .repo-name-line { display: flex; align-items: center; gap: 9px; margin-bottom: 5px; flex-wrap: wrap; }
+  .repo-name-line img { width: 18px; height: 18px; border-radius: 3px; border: 1px solid var(--rule); }
+  .repo-name { font-family: var(--serif); font-weight: 600; font-size: 17px; color: var(--ink); }
+  .repo-owner { color: var(--ink-faint); font-weight: 400; }
+  .lang-pill { font-family: var(--mono); font-size: 10.5px; color: var(--ink-dim); border: 1px solid var(--rule); border-radius: 3px; padding: 1px 6px; }
+  .repo-desc { font-size: 14px; line-height: 1.5; color: var(--ink-dim); max-width: 62ch; }
+  .repo-meta { text-align: right; white-space: nowrap; padding-top: 3px; }
+  .stars { font-family: var(--mono); font-size: 16px; color: var(--ink); font-weight: 600; }
+  .stars::after { content: " ★"; color: var(--brass); font-size: 13px; }
+  .updated { font-family: var(--mono); font-size: 10.5px; color: var(--ink-faint); margin-top: 4px; }
+
+  .empty-state, .status-state { padding: 60px 4px; text-align: center; color: var(--ink-faint); font-family: var(--mono); font-size: 13px; }
+  .status-state.error { color: #c0664f; }
+
+  footer { max-width: 880px; margin: 0 auto; padding: 30px 28px 60px; border-top: 1px solid var(--rule); font-family: var(--mono); font-size: 11.5px; color: var(--ink-faint); line-height: 1.7; }
+  footer a { color: var(--ink-dim); }
+
+  @media (max-width: 560px) {
+    .masthead { padding: 68px 18px 30px; }
+    .controls-bar { padding: 12px 18px; }
+    .list-wrap { padding: 4px 18px 60px; }
+    .row { grid-template-columns: 30px 1fr; }
+    .repo-meta { grid-column: 2; text-align: left; padding-top: 8px; display: flex; gap: 12px; align-items: center; }
+    .updated { margin-top: 0; }
+    .rank { font-size: 13px; }
+    footer { padding: 24px 18px 48px; }
+  }
+
+  :focus-visible { outline: 2px solid var(--brass); outline-offset: 2px; }
+</style>
+</head>
+<body>
+
+<button class="theme-toggle" id="themeToggle" aria-label="切换主题">深/浅</button>
+
+<header class="masthead">
+  <div class="masthead-inner">
+    <p class="kicker">THE AWESOME INDEX <span>· GitHub 精选列表排行榜</span></p>
+    <h1>按 Star 数排序的<br>Awesome 系列清单</h1>
+    <p class="lede">GitHub 上带有 <code style="font-family:var(--mono)">awesome-list</code> 话题标签的仓库，按当前 Star 数从高到低排列。这些仓库本身就是某个领域内资源的<em>人工精选合集</em>——一份索引之索引。数据由 GitHub Actions 每日自动刷新。</p>
+    <div class="stats-row">
+      <div class="stat"><div class="num" id="statTotal">—</div><div class="label">收录条目</div></div>
+      <div class="stat"><div class="num" id="statSum">—</div><div class="label">合计 Star</div></div>
+      <div class="stat"><div class="num" id="statDate">—</div><div class="label">数据更新时间</div></div>
+    </div>
+  </div>
+</header>
+
+<div class="controls-bar">
+  <div class="controls-inner">
+    <div class="search-wrap">
+      <input type="text" id="searchInput" placeholder="按名称或简介搜索…" autocomplete="off">
+    </div>
+    <div class="sort-group" id="sortGroup">
+      <button class="sort-btn active" data-sort="stars">Star 数</button>
+      <button class="sort-btn" data-sort="name">名称</button>
+      <button class="sort-btn" data-sort="updated">最近更新</button>
+    </div>
+  </div>
+</div>
+
+<main class="list-wrap" id="listWrap">
+  <div class="status-state" id="loadingState">正在加载数据…</div>
+</main>
+
+<footer>
+  <p>数据来源：GitHub REST API（<code>topic:awesome-list</code>，按 Star 排序）。本仓库通过 <code>.github/workflows/update-data.yml</code> 每日自动运行 <code>scripts/fetch_data.py</code> 重新抓取并提交 <code>data/repos.json</code>，页面加载时读取最新数据，无需手动更新。</p>
+  <p>源码见 <a href="https://github.com" target="_blank" rel="noopener">GitHub 仓库</a>（部署后替换为你自己的仓库地址）。</p>
+</footer>
+
+<script>
+  const themeToggle = document.getElementById('themeToggle');
+  themeToggle.addEventListener('click', () => {
+    const root = document.documentElement;
+    const current = root.getAttribute('data-theme');
+    if (current === 'light') { root.setAttribute('data-theme', 'dark'); }
+    else if (current === 'dark') { root.removeAttribute('data-theme'); }
+    else { root.setAttribute('data-theme', 'light'); }
+  });
+
+  const listWrap = document.getElementById('listWrap');
+  const searchInput = document.getElementById('searchInput');
+  const sortGroup = document.getElementById('sortGroup');
+  let DATA = [];
+  let sortKey = 'stars';
+  let query = '';
+
+  function formatStars(n) {
+    if (n >= 1000) return (n / 1000).toFixed(n >= 10000 ? 0 : 1).replace(/\.0$/, '') + 'k';
+    return String(n);
+  }
+
+  function escapeHtml(str) {
+    return String(str).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+  }
+
+  function render() {
+    let items = DATA.slice();
+    if (query) {
+      const q = query.toLowerCase();
+      items = items.filter(it => it.name.toLowerCase().includes(q) || (it.desc || '').toLowerCase().includes(q));
+    }
+    if (sortKey === 'stars') items.sort((a, b) => b.stars - a.stars);
+    else if (sortKey === 'name') items.sort((a, b) => a.name.localeCompare(b.name));
+    else if (sortKey === 'updated') items.sort((a, b) => b.updated.localeCompare(a.updated));
+
+    if (items.length === 0) {
+      listWrap.innerHTML = '<div class="empty-state">没有匹配的结果。换个关键词试试。</div>';
+      return;
+    }
+
+    listWrap.innerHTML = items.map((it, i) => {
+      const [owner, repo] = it.name.split('/');
+      return `
+      <a class="row" href="${it.url}" target="_blank" rel="noopener noreferrer">
+        <div class="rank">${i + 1}</div>
+        <div class="repo-main">
+          <div class="repo-name-line">
+            <img src="${it.avatar}" alt="" loading="lazy">
+            <span class="repo-name"><span class="repo-owner">${escapeHtml(owner)}/</span>${escapeHtml(repo)}</span>
+            ${it.lang ? `<span class="lang-pill">${escapeHtml(it.lang)}</span>` : ''}
+          </div>
+          <div class="repo-desc">${escapeHtml(it.desc || '（暂无简介）')}</div>
+        </div>
+        <div class="repo-meta">
+          <div class="stars">${formatStars(it.stars)}</div>
+          <div class="updated">更新于 ${it.updated}</div>
+        </div>
+      </a>`;
+    }).join('');
+  }
+
+  sortGroup.addEventListener('click', (e) => {
+    const btn = e.target.closest('.sort-btn');
+    if (!btn) return;
+    sortKey = btn.dataset.sort;
+    [...sortGroup.children].forEach(b => b.classList.toggle('active', b === btn));
+    render();
+  });
+
+  searchInput.addEventListener('input', (e) => {
+    query = e.target.value.trim();
+    render();
+  });
+
+  async function load() {
+    try {
+      const res = await fetch('data/repos.json', { cache: 'no-store' });
+      if (!res.ok) throw new Error('HTTP ' + res.status);
+      const payload = await res.json();
+      DATA = payload.items || [];
+      document.getElementById('statTotal').textContent = DATA.length;
+      document.getElementById('statSum').textContent = formatStars(DATA.reduce((s, it) => s + it.stars, 0));
+      document.getElementById('statDate').textContent = (payload.generated_at || '').slice(0, 10) || '—';
+      render();
+    } catch (err) {
+      listWrap.innerHTML = '<div class="status-state error">数据加载失败：' + escapeHtml(err.message) +
+        '<br>请确认 data/repos.json 存在，且页面通过 http(s) 服务访问（不能直接双击打开本地文件）。</div>';
+    }
+  }
+
+  load();
+</script>
+</body>
+</html>
