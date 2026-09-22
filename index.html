@@ -107,24 +107,48 @@
   .empty-state, .status-state { padding: 60px 4px; text-align: center; color: var(--ink-faint); font-family: var(--mono); font-size: 13px; }
   .status-state.error { color: #c0664f; }
 
-  footer { max-width: 880px; margin: 0 auto; padding: 30px 28px 60px; border-top: 1px solid var(--rule); font-family: var(--mono); font-size: 11.5px; color: var(--ink-faint); line-height: 1.7; }
-  footer a { color: var(--ink-dim); }
+  footer { max-width: 880px; margin: 0 auto; padding: 28px 28px 54px; border-top: 1px solid var(--rule); font-family: var(--mono); color: var(--ink-faint); }
+  .footer-inner { display: flex; align-items: flex-start; justify-content: space-between; gap: 28px; }
+  .footer-status { margin: 0; font-size: 12px; line-height: 1.75; }
+  .footer-status strong { color: var(--ink-dim); font-weight: 500; }
+  .footer-links { display: flex; flex-wrap: wrap; justify-content: flex-end; gap: 8px 18px; font-size: 12px; }
+  footer a { color: var(--ink-dim); text-decoration: none; border-bottom: 1px solid var(--rule); }
+  footer a:hover { color: var(--ink); border-color: var(--brass-dim); }
 
   @media (max-width: 560px) {
-    .masthead { padding: 68px 18px 30px; }
+    .masthead { padding: 64px 18px 28px; }
+    h1 { font-size: clamp(34px, 11vw, 46px); line-height: 1.12; }
+    .lede { font-size: 16px; line-height: 1.65; }
+    .stats-row { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 12px; }
+    .stat .num { font-size: clamp(16px, 5vw, 20px); overflow-wrap: anywhere; }
+    .stat .label { font-size: 10px; }
     .controls-bar { padding: 12px 18px; }
+    .controls-inner { display: block; }
+    .sort-group { margin-top: 9px; display: grid; grid-template-columns: repeat(3, 1fr); }
+    .sort-btn { min-height: 40px; padding: 8px 6px; }
     .list-wrap { padding: 4px 18px 60px; }
-    .row { grid-template-columns: 30px 1fr; }
+    .row { grid-template-columns: 26px minmax(0, 1fr); gap: 10px; padding: 16px 0; }
     .repo-meta { grid-column: 2; text-align: left; padding-top: 8px; display: flex; gap: 12px; align-items: center; }
+    .repo-name { font-size: 16px; overflow-wrap: anywhere; }
+    .repo-name-line { gap: 7px; }
+    .repo-desc { font-size: 13.5px; }
     .updated { margin-top: 0; }
     .rank { font-size: 13px; }
-    footer { padding: 24px 18px 48px; }
+    footer { padding: 24px 18px calc(40px + env(safe-area-inset-bottom, 0px)); }
+    .footer-inner { display: block; }
+    .footer-links { justify-content: flex-start; margin-top: 16px; }
+  }
+
+  @media (max-width: 360px) {
+    .masthead { padding-left: 14px; padding-right: 14px; }
+    .controls-bar, .list-wrap, footer { padding-left: 14px; padding-right: 14px; }
+    .kicker span { display: block; margin-top: 4px; }
   }
 
   :focus-visible { outline: 2px solid var(--brass); outline-offset: 2px; }
 </style>
 </head>
-<body>
+<body id="top">
 
 <button class="theme-toggle" id="themeToggle" aria-label="切换主题">深/浅</button>
 
@@ -159,8 +183,18 @@
 </main>
 
 <footer>
-  <p>数据来源：GitHub REST API（<code>topic:awesome-list</code>，按 Star 排序）。本仓库通过 <code>.github/workflows/update-data.yml</code> 每日自动运行 <code>scripts/fetch_data.py</code> 重新抓取并提交 <code>data/repos.json</code>，页面加载时读取最新数据，无需手动更新。</p>
-  <p>源码见 <a href="https://github.com" target="_blank" rel="noopener">GitHub 仓库</a>（部署后替换为你自己的仓库地址）。</p>
+  <div class="footer-inner">
+    <p class="footer-status">
+      <strong><span id="footerTotal">—</span> 个精选项目</strong><br>
+      每日 09:00（北京时间）更新 · 数据更新于 <span id="footerDate">—</span>
+    </p>
+    <nav class="footer-links" aria-label="页脚导航">
+      <a href="#top">回到顶部</a>
+      <a href="data/repos.json">下载数据</a>
+      <a href="https://github.com/roger-wang-2026/awesome-index-project" target="_blank" rel="noopener">项目源码</a>
+      <a href="https://github.com/roger-wang-2026/awesome-index-project/issues" target="_blank" rel="noopener">反馈问题</a>
+    </nav>
+  </div>
 </footer>
 
 <script>
@@ -247,6 +281,8 @@
       document.getElementById('statTotal').textContent = DATA.length;
       document.getElementById('statSum').textContent = formatStars(DATA.reduce((s, it) => s + it.stars, 0));
       document.getElementById('statDate').textContent = (payload.generated_at || '').slice(0, 10) || '—';
+      document.getElementById('footerTotal').textContent = DATA.length;
+      document.getElementById('footerDate').textContent = (payload.generated_at || '').slice(0, 10) || '—';
       render();
     } catch (err) {
       listWrap.innerHTML = '<div class="status-state error">数据加载失败：' + escapeHtml(err.message) +
