@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>The Awesome Index — GitHub 精选列表排行</title>
+<title>GitHub Awesome 精选榜 — The Awesome Index</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,500;8..60,600;8..60,700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
@@ -56,7 +56,11 @@
   .kicker { font-family: var(--mono); font-size: 12px; color: var(--brass); letter-spacing: 0.02em; margin: 0 0 14px; }
   .kicker span { color: var(--ink-faint); }
 
-  h1 { font-family: var(--serif); font-weight: 600; font-size: clamp(34px, 6vw, 54px); line-height: 1.05; margin: 0 0 16px; max-width: 14ch; }
+  h1 {
+    font-family: var(--serif); font-weight: 600; font-size: clamp(36px, 6vw, 58px);
+    line-height: 1.08; margin: 0 0 18px; max-width: 100%;
+    letter-spacing: -0.025em; word-break: keep-all; text-wrap: balance;
+  }
   .lede { font-family: var(--serif); font-size: 18px; line-height: 1.55; color: var(--ink-dim); max-width: 62ch; margin: 0 0 28px; }
   .lede em { color: var(--ink); font-style: normal; border-bottom: 1px solid var(--brass-dim); }
 
@@ -126,8 +130,8 @@
 
 <header class="masthead">
   <div class="masthead-inner">
-    <p class="kicker">THE AWESOME INDEX <span>· GitHub 精选列表排行榜</span></p>
-    <h1>按 Star 数排序的<br>Awesome 系列清单</h1>
+    <p class="kicker">THE AWESOME INDEX <span>· 每日自动更新</span></p>
+    <h1>GitHub Awesome 精选榜</h1>
     <p class="lede">GitHub 上带有 <code style="font-family:var(--mono)">awesome-list</code> 话题标签的仓库，按当前 Star 数从高到低排列。这些仓库本身就是某个领域内资源的<em>人工精选合集</em>——一份索引之索引。数据由 GitHub Actions 每日自动刷新。</p>
     <div class="stats-row">
       <div class="stat"><div class="num" id="statTotal">—</div><div class="label">收录条目</div></div>
