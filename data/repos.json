@@ -1,381 +1,381 @@
 {
-  "generated_at": "2026-09-23T05:32:40Z",
+  "generated_at": "2026-09-24T05:53:17Z",
   "query": "topic:awesome-list",
   "count": 300,
   "items": [
     {
       "name": "codecrafters-io/build-your-own-x",
       "desc": "Master programming by recreating your favorite technologies from scratch.",
-      "stars": 548865,
+      "stars": 549132,
       "lang": "Markdown",
       "url": "https://github.com/codecrafters-io/build-your-own-x",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/58904235?v=4"
     },
     {
       "name": "sindresorhus/awesome",
       "desc": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
-      "stars": 509100,
+      "stars": 509551,
       "lang": "",
       "url": "https://github.com/sindresorhus/awesome",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/170270?v=4"
     },
     {
       "name": "vinta/awesome-python",
       "desc": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
-      "stars": 322389,
+      "stars": 322620,
       "lang": "Python",
       "url": "https://github.com/vinta/awesome-python",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/652070?v=4"
     },
     {
       "name": "awesome-selfhosted/awesome-selfhosted",
       "desc": "A list of Free Software network services and web applications which can be hosted on your own servers",
-      "stars": 321124,
+      "stars": 321355,
       "lang": "",
       "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/24270415?v=4"
     },
     {
       "name": "trimstray/the-book-of-secret-knowledge",
       "desc": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
-      "stars": 245418,
+      "stars": 245619,
       "lang": "",
       "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/31127917?v=4"
     },
     {
       "name": "ossu/computer-science",
       "desc": "🎓 Path to a free self-taught education in Computer Science!",
-      "stars": 209386,
+      "stars": 209412,
       "lang": "HTML",
       "url": "https://github.com/ossu/computer-science",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/14957346?v=4"
     },
     {
       "name": "avelino/awesome-go",
       "desc": "A curated list of awesome Go frameworks, libraries and software",
-      "stars": 185200,
+      "stars": 185338,
       "lang": "Go",
       "url": "https://github.com/avelino/awesome-go",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/31996?v=4"
     },
     {
       "name": "f/prompts.chat",
       "desc": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "stars": 171054,
+      "stars": 171130,
       "lang": "HTML",
       "url": "https://github.com/f/prompts.chat",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/196477?v=4"
     },
     {
       "name": "ripienaar/free-for-dev",
       "desc": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
-      "stars": 138017,
+      "stars": 138105,
       "lang": "HTML",
       "url": "https://github.com/ripienaar/free-for-dev",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/82342?v=4"
     },
     {
       "name": "Chalarangelo/30-seconds-of-code",
       "desc": "Coding articles to level up your development skills",
-      "stars": 129195,
+      "stars": 129200,
       "lang": "JavaScript",
       "url": "https://github.com/Chalarangelo/30-seconds-of-code",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/8281875?v=4"
     },
     {
       "name": "VoltAgent/awesome-design-md",
       "desc": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
-      "stars": 117374,
+      "stars": 117580,
       "lang": "",
       "url": "https://github.com/VoltAgent/awesome-design-md",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/201282378?v=4"
     },
     {
       "name": "jaywcjlove/awesome-mac",
       "desc": " This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.",
-      "stars": 114512,
+      "stars": 114697,
       "lang": "Swift",
       "url": "https://github.com/jaywcjlove/awesome-mac",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/1680273?v=4"
     },
     {
       "name": "iluwatar/java-design-patterns",
       "desc": "Design patterns implemented in Java",
-      "stars": 94714,
+      "stars": 94720,
       "lang": "Java",
       "url": "https://github.com/iluwatar/java-design-patterns",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/582346?v=4"
     },
     {
       "name": "MunGell/awesome-for-beginners",
       "desc": "A list of awesome beginners-friendly projects.",
-      "stars": 89511,
+      "stars": 89538,
       "lang": "",
       "url": "https://github.com/MunGell/awesome-for-beginners",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/812976?v=4"
     },
     {
       "name": "DopplerHQ/awesome-interview-questions",
       "desc": ":octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:",
-      "stars": 84646,
+      "stars": 84654,
       "lang": "",
       "url": "https://github.com/DopplerHQ/awesome-interview-questions",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/34022344?v=4"
     },
     {
       "name": "enaqx/awesome-react",
       "desc": "A collection of awesome things regarding React ecosystem",
-      "stars": 74680,
+      "stars": 74692,
       "lang": "",
       "url": "https://github.com/enaqx/awesome-react",
-      "updated": "2026-09-22",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/182219?v=4"
     },
     {
       "name": "binhnguyennus/awesome-scalability",
       "desc": "The Patterns of Scalable, Reliable, and Performant Large-Scale Systems",
-      "stars": 74198,
+      "stars": 74230,
       "lang": "",
       "url": "https://github.com/binhnguyennus/awesome-scalability",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/15001306?v=4"
     },
     {
       "name": "fffaraz/awesome-cpp",
       "desc": "A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.",
-      "stars": 73425,
+      "stars": 73440,
       "lang": "",
       "url": "https://github.com/fffaraz/awesome-cpp",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/895678?v=4"
     },
     {
       "name": "prakhar1989/awesome-courses",
       "desc": ":books: List of awesome university courses for learning Computer Science!",
-      "stars": 71348,
+      "stars": 71364,
       "lang": "",
       "url": "https://github.com/prakhar1989/awesome-courses",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/649249?v=4"
     },
     {
       "name": "sindresorhus/awesome-nodejs",
       "desc": ":zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED TEMPORARILY]",
-      "stars": 66901,
+      "stars": 66909,
       "lang": "",
       "url": "https://github.com/sindresorhus/awesome-nodejs",
-      "updated": "2026-09-22",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/170270?v=4"
     },
     {
       "name": "Solido/awesome-flutter",
       "desc": "An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.",
-      "stars": 61283,
+      "stars": 61294,
       "lang": "Dart",
       "url": "https://github.com/Solido/awesome-flutter",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/1295961?v=4"
     },
     {
       "name": "tiimgreen/github-cheat-sheet",
       "desc": "A list of cool features of Git and GitHub.",
-      "stars": 59227,
+      "stars": 59243,
       "lang": "",
       "url": "https://github.com/tiimgreen/github-cheat-sheet",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/4130574?v=4"
     },
     {
       "name": "hesreallyhim/awesome-claude-code",
       "desc": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins",
-      "stars": 54463,
+      "stars": 54524,
       "lang": "Python",
       "url": "https://github.com/hesreallyhim/awesome-claude-code",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/172150522?v=4"
     },
     {
       "name": "VoltAgent/awesome-openclaw-skills",
       "desc": "The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞",
-      "stars": 52736,
+      "stars": 52761,
       "lang": "",
       "url": "https://github.com/VoltAgent/awesome-openclaw-skills",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/201282378?v=4"
     },
     {
       "name": "serhii-londar/open-source-mac-os-apps",
       "desc": "🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps",
-      "stars": 50501,
+      "stars": 50536,
       "lang": "",
       "url": "https://github.com/serhii-londar/open-source-mac-os-apps",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/15808174?v=4"
     },
     {
       "name": "akullpp/awesome-java",
       "desc": "A curated list of awesome frameworks, libraries and software for the Java programming language.",
-      "stars": 49089,
+      "stars": 49093,
       "lang": "",
       "url": "https://github.com/akullpp/awesome-java",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/4538351?v=4"
     },
     {
       "name": "DovAmir/awesome-design-patterns",
       "desc": "A curated list of software and architecture related design patterns.",
-      "stars": 49024,
+      "stars": 49038,
       "lang": "",
       "url": "https://github.com/DovAmir/awesome-design-patterns",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/2938156?v=4"
     },
     {
       "name": "lukasz-madon/awesome-remote-job",
       "desc": "A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python",
-      "stars": 48915,
+      "stars": 48932,
       "lang": "",
       "url": "https://github.com/lukasz-madon/awesome-remote-job",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/1547923?v=4"
     },
     {
       "name": "brillout/awesome-react-components",
       "desc": "Curated List of React Components & Libraries.",
-      "stars": 48476,
+      "stars": 48478,
       "lang": "",
       "url": "https://github.com/brillout/awesome-react-components",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/1005638?v=4"
     },
     {
       "name": "dypsilon/frontend-dev-bookmarks",
       "desc": "Manually curated collection of resources for frontend web developers.",
-      "stars": 47544,
+      "stars": 47551,
       "lang": "",
       "url": "https://github.com/dypsilon/frontend-dev-bookmarks",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/425735?v=4"
     },
     {
       "name": "docker/awesome-compose",
       "desc": "Awesome Docker Compose samples",
-      "stars": 46396,
+      "stars": 46403,
       "lang": "HTML",
       "url": "https://github.com/docker/awesome-compose",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/5429470?v=4"
     },
     {
       "name": "goabstract/Awesome-Design-Tools",
       "desc": "The best design tools and plugins for everything 👉",
-      "stars": 41290,
+      "stars": 41306,
       "lang": "JavaScript",
       "url": "https://github.com/goabstract/Awesome-Design-Tools",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/18014107?v=4"
     },
     {
       "name": "PatrickJS/awesome-cursorrules",
       "desc": "📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors",
-      "stars": 40823,
+      "stars": 40827,
       "lang": "JavaScript",
       "url": "https://github.com/PatrickJS/awesome-cursorrules",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/1016365?v=4"
     },
     {
       "name": "alebcay/awesome-shell",
       "desc": "A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.",
-      "stars": 37661,
+      "stars": 37667,
       "lang": "",
       "url": "https://github.com/alebcay/awesome-shell",
-      "updated": "2026-09-22",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/3536482?v=4"
     },
     {
       "name": "veggiemonk/awesome-docker",
       "desc": ":whale: A curated list of Docker resources and projects",
-      "stars": 36874,
+      "stars": 36878,
       "lang": "",
       "url": "https://github.com/veggiemonk/awesome-docker",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/5487021?v=4"
     },
     {
       "name": "jondot/awesome-react-native",
       "desc": "Awesome React Native components, news, tools, and learning material!",
-      "stars": 35704,
+      "stars": 35706,
       "lang": "",
       "url": "https://github.com/jondot/awesome-react-native",
-      "updated": "2026-09-22",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/83390?v=4"
     },
     {
       "name": "kuchin/awesome-cto",
       "desc": "A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups",
-      "stars": 35496,
+      "stars": 35499,
       "lang": "",
       "url": "https://github.com/kuchin/awesome-cto",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/87963?v=4"
     },
     {
       "name": "awesome-foss/awesome-sysadmin",
       "desc": "A curated list of amazingly awesome open-source sysadmin resources.",
-      "stars": 35235,
+      "stars": 35240,
       "lang": "",
       "url": "https://github.com/awesome-foss/awesome-sysadmin",
-      "updated": "2026-09-22",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/20512645?v=4"
     },
     {
       "name": "VoltAgent/awesome-agent-skills",
       "desc": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
-      "stars": 34756,
+      "stars": 34790,
       "lang": "",
       "url": "https://github.com/VoltAgent/awesome-agent-skills",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/201282378?v=4"
     },
     {
       "name": "hesamsheikh/awesome-openclaw-usecases",
       "desc": "A community collection of OpenClaw use cases for making life easier.",
-      "stars": 31673,
+      "stars": 31678,
       "lang": "",
       "url": "https://github.com/hesamsheikh/awesome-openclaw-usecases",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/41022652?v=4"
     },
     {
       "name": "abhisheknaiidu/awesome-github-profile-readme",
       "desc": "😎 A curated list of awesome GitHub Profile which updates in real time",
-      "stars": 31133,
+      "stars": 31140,
       "lang": "",
       "url": "https://github.com/abhisheknaiidu/awesome-github-profile-readme",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/55599878?v=4"
     },
     {
       "name": "herrbischoff/awesome-macos-command-line",
       "desc": "Use your macOS terminal shell to do awesome things.",
-      "stars": 30934,
+      "stars": 30935,
       "lang": "",
       "url": "https://github.com/herrbischoff/awesome-macos-command-line",
       "updated": "2026-09-23",
@@ -387,67 +387,67 @@
       "stars": 30283,
       "lang": "",
       "url": "https://github.com/AllThingsSmitty/css-protips",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/1682367?v=4"
     },
     {
       "name": "academic/awesome-datascience",
       "desc": ":memo: An awesome Data Science repository to learn and apply for real world problems.",
-      "stars": 30055,
+      "stars": 30058,
       "lang": "",
       "url": "https://github.com/academic/awesome-datascience",
-      "updated": "2026-09-22",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/17519607?v=4"
     },
     {
       "name": "wilsonfreitas/awesome-quant",
       "desc": "A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)",
-      "stars": 29704,
+      "stars": 29722,
       "lang": "HTML",
       "url": "https://github.com/wilsonfreitas/awesome-quant",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/1583922?v=4"
     },
     {
       "name": "jivoi/awesome-osint",
       "desc": ":scream: A curated list of amazingly awesome OSINT",
-      "stars": 29689,
+      "stars": 29707,
       "lang": "",
       "url": "https://github.com/jivoi/awesome-osint",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/740995?v=4"
     },
     {
       "name": "aishwaryanr/awesome-generative-ai-guide",
       "desc": "A one stop repository for generative AI research updates, interview resources, notebooks and much more!",
-      "stars": 29535,
+      "stars": 29552,
       "lang": "HTML",
       "url": "https://github.com/aishwaryanr/awesome-generative-ai-guide",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/12550285?v=4"
     },
     {
       "name": "The-Art-of-Hacking/h4cker",
       "desc": "This repository is maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking, bug bounties, digital forensics and incident response (DFIR), AI security, vulnerability research, exploit development, reverse engineering, and more. 🔥 Also check: https://hackertraining.org",
-      "stars": 29507,
+      "stars": 29520,
       "lang": "Jupyter Notebook",
       "url": "https://github.com/The-Art-of-Hacking/h4cker",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/29549806?v=4"
     },
     {
       "name": "viatsko/awesome-vscode",
       "desc": "🎨 A curated list of delightful VS Code packages and resources.",
-      "stars": 29065,
+      "stars": 29068,
       "lang": "JavaScript",
       "url": "https://github.com/viatsko/awesome-vscode",
-      "updated": "2026-09-22",
+      "updated": "2026-09-23",
       "avatar": "https://avatars.githubusercontent.com/u/376065?v=4"
     },
     {
       "name": "ChristosChristofidis/awesome-deep-learning",
       "desc": "A curated list of awesome Deep Learning tutorials, projects and communities.",
-      "stars": 28958,
+      "stars": 28960,
       "lang": "",
       "url": "https://github.com/ChristosChristofidis/awesome-deep-learning",
       "updated": "2026-09-23",
@@ -465,7 +465,7 @@
     {
       "name": "kdeldycke/awesome-falsehood",
       "desc": "😱 Falsehoods Programmers Believe in",
-      "stars": 27716,
+      "stars": 27718,
       "lang": "",
       "url": "https://github.com/kdeldycke/awesome-falsehood",
       "updated": "2026-09-23",
@@ -482,38 +482,38 @@
     },
     {
       "name": "enaqx/awesome-pentest",
-      "desc": "A collection of awesome penetration testing resources, tools and other shiny things",
-      "stars": 27265,
+      "desc": "A collection of awesome penetration testing resources and tools",
+      "stars": 27270,
       "lang": "",
       "url": "https://github.com/enaqx/awesome-pentest",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/182219?v=4"
     },
     {
       "name": "Igglybuff/awesome-piracy",
       "desc": "A curated list of awesome warez and piracy links",
-      "stars": 26915,
+      "stars": 26916,
       "lang": "HTML",
       "url": "https://github.com/Igglybuff/awesome-piracy",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/8899226?v=4"
     },
     {
       "name": "matteocrippa/awesome-swift",
       "desc": "A collaborative list of awesome Swift libraries and resources. Feel free to contribute!",
-      "stars": 26267,
+      "stars": 26269,
       "lang": "Ruby",
       "url": "https://github.com/matteocrippa/awesome-swift",
-      "updated": "2026-09-22",
+      "updated": "2026-09-23",
       "avatar": "https://avatars.githubusercontent.com/u/475463?v=4"
     },
     {
       "name": "alexpate/awesome-design-systems",
       "desc": "💅🏻 ⚒ A collection of awesome design systems",
-      "stars": 25997,
+      "stars": 26002,
       "lang": "",
       "url": "https://github.com/alexpate/awesome-design-systems",
-      "updated": "2026-09-22",
+      "updated": "2026-09-23",
       "avatar": "https://avatars.githubusercontent.com/u/3749759?v=4"
     },
     {
@@ -522,49 +522,49 @@
       "stars": 25613,
       "lang": "HTML",
       "url": "https://github.com/luong-komorebi/Awesome-Linux-Software",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/15828926?v=4"
     },
     {
       "name": "enescingoz/awesome-n8n-templates",
       "desc": "280+ free n8n automation templates — ready-to-use workflows for Gmail, Telegram, Slack, Discord, WhatsApp, Google Drive, Notion, OpenAI, and more. AI agents, RAG   chatbots, email automation, social media, DevOps, and document processing. The largest open-source n8n template collection.",
-      "stars": 25536,
+      "stars": 25551,
       "lang": "",
       "url": "https://github.com/enescingoz/awesome-n8n-templates",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/60349121?v=4"
     },
     {
       "name": "VoltAgent/awesome-claude-code-subagents",
       "desc": "A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases",
-      "stars": 25272,
+      "stars": 25291,
       "lang": "Shell",
       "url": "https://github.com/VoltAgent/awesome-claude-code-subagents",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/201282378?v=4"
     },
     {
       "name": "djsime1/awesome-flipperzero",
       "desc": "🐬 A collection of awesome resources for the Flipper Zero device.",
-      "stars": 24328,
+      "stars": 24333,
       "lang": "",
       "url": "https://github.com/djsime1/awesome-flipperzero",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/8518150?v=4"
     },
     {
       "name": "mikeroyal/Self-Hosting-Guide",
       "desc": "Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.",
-      "stars": 22855,
+      "stars": 22857,
       "lang": "Dockerfile",
       "url": "https://github.com/mikeroyal/Self-Hosting-Guide",
-      "updated": "2026-09-22",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/45159366?v=4"
     },
     {
       "name": "lissy93/personal-security-checklist",
       "desc": "🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026",
-      "stars": 22371,
+      "stars": 22375,
       "lang": "TypeScript",
       "url": "https://github.com/lissy93/personal-security-checklist",
       "updated": "2026-09-23",
@@ -573,7 +573,7 @@
     {
       "name": "dipakkr/A-to-Z-Resources-for-Students",
       "desc": "✅  Curated list of resources for developers",
-      "stars": 22278,
+      "stars": 22280,
       "lang": "",
       "url": "https://github.com/dipakkr/A-to-Z-Resources-for-Students",
       "updated": "2026-09-23",
@@ -582,16 +582,16 @@
     {
       "name": "quozd/awesome-dotnet",
       "desc": "A collection of awesome .NET libraries, tools, frameworks and software",
-      "stars": 21624,
+      "stars": 21625,
       "lang": "",
       "url": "https://github.com/quozd/awesome-dotnet",
-      "updated": "2026-09-22",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/2129162?v=4"
     },
     {
       "name": "matiassingers/awesome-readme",
       "desc": "A curated list of awesome READMEs",
-      "stars": 21473,
+      "stars": 21476,
       "lang": "",
       "url": "https://github.com/matiassingers/awesome-readme",
       "updated": "2026-09-23",
@@ -600,25 +600,25 @@
     {
       "name": "rockerBOO/awesome-neovim",
       "desc": "Collections of awesome neovim plugins.",
-      "stars": 21412,
+      "stars": 21413,
       "lang": "Shell",
       "url": "https://github.com/rockerBOO/awesome-neovim",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/15027?v=4"
     },
     {
       "name": "thangchung/awesome-dotnet-core",
       "desc": ":honeybee: A collection of awesome .NET core libraries, tools, frameworks and software",
-      "stars": 21391,
+      "stars": 21390,
       "lang": "C#",
       "url": "https://github.com/thangchung/awesome-dotnet-core",
-      "updated": "2026-09-22",
+      "updated": "2026-09-23",
       "avatar": "https://avatars.githubusercontent.com/u/422341?v=4"
     },
     {
       "name": "LiLittleCat/awesome-free-chatgpt",
       "desc": "🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.",
-      "stars": 21283,
+      "stars": 21282,
       "lang": "Python",
       "url": "https://github.com/LiLittleCat/awesome-free-chatgpt",
       "updated": "2026-09-23",
@@ -627,61 +627,61 @@
     {
       "name": "EthicalML/awesome-production-machine-learning",
       "desc": "A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning",
-      "stars": 20944,
+      "stars": 20947,
       "lang": "",
       "url": "https://github.com/EthicalML/awesome-production-machine-learning",
-      "updated": "2026-09-22",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/43532924?v=4"
     },
     {
       "name": "Universidade-Livre/ciencia-da-computacao",
       "desc": "🎓 Um caminho para a educação autodidata em Ciência da Computação!",
-      "stars": 20838,
+      "stars": 20841,
       "lang": "",
       "url": "https://github.com/Universidade-Livre/ciencia-da-computacao",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/86568132?v=4"
     },
     {
       "name": "birobirobiro/awesome-shadcn-ui",
       "desc": "A curated list of awesome things related to shadcn/ui.",
-      "stars": 20551,
+      "stars": 20554,
       "lang": "TypeScript",
       "url": "https://github.com/birobirobiro/awesome-shadcn-ui",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/22185823?v=4"
     },
     {
       "name": "agarrharr/awesome-cli-apps",
       "desc": "🖥 📊 🕹 🛠 A curated list of command line apps",
-      "stars": 20449,
+      "stars": 20454,
       "lang": "Shell",
       "url": "https://github.com/agarrharr/awesome-cli-apps",
-      "updated": "2026-09-22",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/3266363?v=4"
     },
     {
       "name": "pluja/awesome-privacy",
       "desc": "Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.",
-      "stars": 19827,
+      "stars": 19833,
       "lang": "Python",
       "url": "https://github.com/pluja/awesome-privacy",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/64632615?v=4"
     },
     {
       "name": "RunaCapital/awesome-oss-alternatives",
       "desc": "Awesome list of open-source startup alternatives to well-known SaaS products 🚀",
-      "stars": 19684,
+      "stars": 19686,
       "lang": "Python",
       "url": "https://github.com/RunaCapital/awesome-oss-alternatives",
-      "updated": "2026-09-22",
+      "updated": "2026-09-23",
       "avatar": "https://avatars.githubusercontent.com/u/16305757?v=4"
     },
     {
       "name": "dariubs/GoBooks",
       "desc": "List of Golang books",
-      "stars": 19683,
+      "stars": 19685,
       "lang": "Go",
       "url": "https://github.com/dariubs/GoBooks",
       "updated": "2026-09-23",
@@ -690,7 +690,7 @@
     {
       "name": "iCHAIT/awesome-macOS",
       "desc": " A curated list of awesome applications, softwares, tools and shiny things for macOS.",
-      "stars": 19249,
+      "stars": 19251,
       "lang": "",
       "url": "https://github.com/iCHAIT/awesome-macOS",
       "updated": "2026-09-23",
@@ -699,34 +699,34 @@
     {
       "name": "keon/awesome-nlp",
       "desc": ":book: A curated list of resources dedicated to Natural Language Processing (NLP)",
-      "stars": 19026,
+      "stars": 19029,
       "lang": "",
       "url": "https://github.com/keon/awesome-nlp",
-      "updated": "2026-09-22",
+      "updated": "2026-09-23",
       "avatar": "https://avatars.githubusercontent.com/u/10793962?v=4"
     },
     {
       "name": "hemanth/functional-programming-jargon",
       "desc": "Jargon from the functional programming world in simple terms!",
-      "stars": 18717,
+      "stars": 18718,
       "lang": "JavaScript",
       "url": "https://github.com/hemanth/functional-programming-jargon",
-      "updated": "2026-09-22",
+      "updated": "2026-09-23",
       "avatar": "https://avatars.githubusercontent.com/u/18315?v=4"
     },
     {
       "name": "ujjwalkarn/Machine-Learning-Tutorials",
       "desc": "machine learning and deep learning tutorials, articles and other resources",
-      "stars": 18220,
+      "stars": 18221,
       "lang": "",
       "url": "https://github.com/ujjwalkarn/Machine-Learning-Tutorials",
-      "updated": "2026-09-22",
+      "updated": "2026-09-23",
       "avatar": "https://avatars.githubusercontent.com/u/5948390?v=4"
     },
     {
       "name": "unixorn/awesome-zsh-plugins",
       "desc": "A collection of ZSH frameworks, plugins, themes and tutorials.",
-      "stars": 18025,
+      "stars": 18028,
       "lang": "Shell",
       "url": "https://github.com/unixorn/awesome-zsh-plugins",
       "updated": "2026-09-23",
@@ -735,7 +735,7 @@
     {
       "name": "mhinz/vim-galore",
       "desc": ":mortar_board: All things Vim!",
-      "stars": 17989,
+      "stars": 17991,
       "lang": "Vim script",
       "url": "https://github.com/mhinz/vim-galore",
       "updated": "2026-09-23",
@@ -744,10 +744,10 @@
     {
       "name": "ellisonleao/magictools",
       "desc": ":video_game: :pencil: A list of Game Development resources to make magic happen.",
-      "stars": 17349,
+      "stars": 17358,
       "lang": "Markdown",
       "url": "https://github.com/ellisonleao/magictools",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/178641?v=4"
     },
     {
@@ -762,100 +762,100 @@
     {
       "name": "EvoLinkAI/awesome-gpt-image-2-API-and-Prompts",
       "desc": "GPT-Image-2 API and Prompts",
-      "stars": 17235,
+      "stars": 17238,
       "lang": "Python",
       "url": "https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/253253881?v=4"
     },
     {
       "name": "thibmaek/awesome-raspberry-pi",
       "desc": "📝 A curated list of awesome Raspberry Pi tools, projects, images and resources",
-      "stars": 16910,
+      "stars": 16913,
       "lang": "Shell",
       "url": "https://github.com/thibmaek/awesome-raspberry-pi",
       "updated": "2026-09-23",
       "avatar": "https://avatars.githubusercontent.com/u/6213695?v=4"
     },
     {
-      "name": "bharathgs/Awesome-pytorch-list",
-      "desc": "A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.",
-      "stars": 16678,
-      "lang": "",
-      "url": "https://github.com/bharathgs/Awesome-pytorch-list",
-      "updated": "2026-09-22",
-      "avatar": "https://avatars.githubusercontent.com/u/4470378?v=4"
-    },
-    {
       "name": "awesome-dsh-plugin/awesome-dsh-plugin",
       "desc": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
-      "stars": 16651,
+      "stars": 16768,
       "lang": "Python",
       "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/316603077?v=4"
+    },
+    {
+      "name": "bharathgs/Awesome-pytorch-list",
+      "desc": "A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.",
+      "stars": 16679,
+      "lang": "",
+      "url": "https://github.com/bharathgs/Awesome-pytorch-list",
+      "updated": "2026-09-23",
+      "avatar": "https://avatars.githubusercontent.com/u/4470378?v=4"
     },
     {
       "name": "rossant/awesome-math",
       "desc": "A curated list of awesome mathematics resources",
-      "stars": 16470,
+      "stars": 16476,
       "lang": "Python",
       "url": "https://github.com/rossant/awesome-math",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/1942359?v=4"
     },
     {
       "name": "public-api-lists/public-api-lists",
       "desc": "A curated list of free public APIs — searchable, community-maintained, with a free JSON API.",
-      "stars": 15875,
+      "stars": 15883,
       "lang": "",
       "url": "https://github.com/public-api-lists/public-api-lists",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/59540994?v=4"
-    },
-    {
-      "name": "terkelg/awesome-creative-coding",
-      "desc": "Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.",
-      "stars": 15357,
-      "lang": "HTML",
-      "url": "https://github.com/terkelg/awesome-creative-coding",
-      "updated": "2026-09-22",
-      "avatar": "https://avatars.githubusercontent.com/u/2302254?v=4"
     },
     {
       "name": "bobeff/open-source-games",
       "desc": "A list of open source games.",
-      "stars": 15336,
+      "stars": 15372,
       "lang": "Python",
       "url": "https://github.com/bobeff/open-source-games",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/675506?v=4"
+    },
+    {
+      "name": "terkelg/awesome-creative-coding",
+      "desc": "Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.",
+      "stars": 15358,
+      "lang": "HTML",
+      "url": "https://github.com/terkelg/awesome-creative-coding",
+      "updated": "2026-09-24",
+      "avatar": "https://avatars.githubusercontent.com/u/2302254?v=4"
     },
     {
       "name": "aniftyco/awesome-tailwindcss",
       "desc": "😎 Awesome things related to Tailwind CSS",
-      "stars": 15187,
+      "stars": 15188,
       "lang": "",
       "url": "https://github.com/aniftyco/awesome-tailwindcss",
-      "updated": "2026-09-22",
+      "updated": "2026-09-23",
       "avatar": "https://avatars.githubusercontent.com/u/18599486?v=4"
     },
     {
       "name": "travisvn/awesome-claude-skills",
       "desc": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code",
-      "stars": 15138,
+      "stars": 15149,
       "lang": "",
       "url": "https://github.com/travisvn/awesome-claude-skills",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/2686415?v=4"
     },
     {
       "name": "chentsulin/awesome-graphql",
       "desc": "Awesome list of GraphQL",
-      "stars": 15121,
+      "stars": 15122,
       "lang": "Ruby",
       "url": "https://github.com/chentsulin/awesome-graphql",
-      "updated": "2026-09-22",
+      "updated": "2026-09-23",
       "avatar": "https://avatars.githubusercontent.com/u/3382565?v=4"
     },
     {
@@ -864,25 +864,25 @@
       "stars": 14880,
       "lang": "",
       "url": "https://github.com/sbilly/awesome-security",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/123563?v=4"
     },
     {
       "name": "analysis-tools-dev/static-analysis",
       "desc": "⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.",
-      "stars": 14798,
+      "stars": 14803,
       "lang": "Rust",
       "url": "https://github.com/analysis-tools-dev/static-analysis",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/62759712?v=4"
     },
     {
       "name": "oxnr/awesome-bigdata",
       "desc": "A curated list of awesome big data frameworks, ressources and other awesomeness.",
-      "stars": 14648,
+      "stars": 14649,
       "lang": "",
       "url": "https://github.com/oxnr/awesome-bigdata",
-      "updated": "2026-09-22",
+      "updated": "2026-09-23",
       "avatar": "https://avatars.githubusercontent.com/u/1712926?v=4"
     },
     {
@@ -897,28 +897,28 @@
     {
       "name": "paperswithbacktest/awesome-systematic-trading",
       "desc": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
-      "stars": 14401,
+      "stars": 14416,
       "lang": "Python",
       "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
-      "updated": "2026-09-22",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/154981318?v=4"
     },
     {
       "name": "hackerkid/Mind-Expanding-Books",
       "desc": ":books: Find your next book to read!",
-      "stars": 14292,
+      "stars": 14295,
       "lang": "JavaScript",
       "url": "https://github.com/hackerkid/Mind-Expanding-Books",
-      "updated": "2026-09-22",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/7190633?v=4"
     },
     {
       "name": "rshipp/awesome-malware-analysis",
       "desc": "Defund the Police.",
-      "stars": 14215,
+      "stars": 14216,
       "lang": "",
       "url": "https://github.com/rshipp/awesome-malware-analysis",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/1382374?v=4"
     },
     {
@@ -933,25 +933,25 @@
     {
       "name": "markets/awesome-ruby",
       "desc": "💎 A collection of awesome Ruby libraries, tools, frameworks and software",
-      "stars": 14157,
+      "stars": 14159,
       "lang": "",
       "url": "https://github.com/markets/awesome-ruby",
-      "updated": "2026-09-22",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/576701?v=4"
     },
     {
       "name": "qazbnm456/awesome-web-security",
       "desc": "🐶 A curated list of Web Security materials and resources.",
-      "stars": 13815,
+      "stars": 13817,
       "lang": "Python",
       "url": "https://github.com/qazbnm456/awesome-web-security",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/6451933?v=4"
     },
     {
       "name": "bolshchikov/js-must-watch",
       "desc": "Must-watch videos about javascript",
-      "stars": 13614,
+      "stars": 13613,
       "lang": "",
       "url": "https://github.com/bolshchikov/js-must-watch",
       "updated": "2026-09-23",
@@ -960,16 +960,16 @@
     {
       "name": "dastergon/awesome-sre",
       "desc": "A curated list of Site Reliability and Production Engineering resources.",
-      "stars": 13531,
+      "stars": 13534,
       "lang": "",
       "url": "https://github.com/dastergon/awesome-sre",
-      "updated": "2026-09-22",
+      "updated": "2026-09-23",
       "avatar": "https://avatars.githubusercontent.com/u/1192342?v=4"
     },
     {
       "name": "alexandresanlim/Badges4-README.md-Profile",
       "desc": ":octocat: Improve your README.md profile with these amazing badges.",
-      "stars": 13480,
+      "stars": 13484,
       "lang": "Markdown",
       "url": "https://github.com/alexandresanlim/Badges4-README.md-Profile",
       "updated": "2026-09-23",
@@ -981,34 +981,34 @@
       "stars": 13473,
       "lang": "TypeScript",
       "url": "https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/245655810?v=4"
     },
     {
       "name": "goabstract/Marketing-for-Engineers",
       "desc": "A curated collection of marketing articles & tools to grow your product.",
-      "stars": 13229,
+      "stars": 13231,
       "lang": "",
       "url": "https://github.com/goabstract/Marketing-for-Engineers",
-      "updated": "2026-09-22",
+      "updated": "2026-09-23",
       "avatar": "https://avatars.githubusercontent.com/u/18014107?v=4"
     },
     {
       "name": "phanan/htaccess",
       "desc": "✂A collection of useful .htaccess snippets.",
-      "stars": 13186,
+      "stars": 13185,
       "lang": "",
       "url": "https://github.com/phanan/htaccess",
-      "updated": "2026-09-22",
+      "updated": "2026-09-23",
       "avatar": "https://avatars.githubusercontent.com/u/8056274?v=4"
     },
     {
       "name": "nestjs/awesome-nestjs",
       "desc": "A curated list of awesome things related to NestJS 😎",
-      "stars": 13148,
+      "stars": 13147,
       "lang": "",
       "url": "https://github.com/nestjs/awesome-nestjs",
-      "updated": "2026-09-22",
+      "updated": "2026-09-23",
       "avatar": "https://avatars.githubusercontent.com/u/28507035?v=4"
     },
     {
@@ -1026,34 +1026,34 @@
       "stars": 12773,
       "lang": "",
       "url": "https://github.com/humiaozuzu/awesome-flask",
-      "updated": "2026-09-22",
+      "updated": "2026-09-23",
       "avatar": "https://avatars.githubusercontent.com/u/300016?v=4"
     },
     {
       "name": "steven2358/awesome-generative-ai",
       "desc": "A curated list of modern Generative Artificial Intelligence projects and services",
-      "stars": 12668,
+      "stars": 12673,
       "lang": "",
       "url": "https://github.com/steven2358/awesome-generative-ai",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/164072?v=4"
     },
     {
       "name": "heynickc/awesome-ddd",
       "desc": "A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources",
-      "stars": 12375,
+      "stars": 12374,
       "lang": "",
       "url": "https://github.com/heynickc/awesome-ddd",
-      "updated": "2026-09-22",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/1671359?v=4"
     },
     {
       "name": "JStumpp/awesome-android",
       "desc": "A curated list of awesome Android packages and resources.",
-      "stars": 12347,
+      "stars": 12350,
       "lang": "",
       "url": "https://github.com/JStumpp/awesome-android",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/4624747?v=4"
     },
     {
@@ -1071,13 +1071,13 @@
       "stars": 12125,
       "lang": "JavaScript",
       "url": "https://github.com/Chalarangelo/30-seconds-of-interviews",
-      "updated": "2026-09-21",
+      "updated": "2026-09-23",
       "avatar": "https://avatars.githubusercontent.com/u/8281875?v=4"
     },
     {
       "name": "k4m4/movies-for-hackers",
       "desc": "🎬 A curated list of movies every hacker & cyberpunk must watch.",
-      "stars": 11913,
+      "stars": 11912,
       "lang": "Shell",
       "url": "https://github.com/k4m4/movies-for-hackers",
       "updated": "2026-09-23",
@@ -1098,43 +1098,43 @@
       "stars": 11715,
       "lang": "Python",
       "url": "https://github.com/EmbraceAGI/awesome-chatgpt-zh",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/132356036?v=4"
     },
     {
       "name": "mehdihadeli/awesome-software-architecture",
       "desc": "📚 A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.",
-      "stars": 11691,
+      "stars": 11693,
       "lang": "TypeScript",
       "url": "https://github.com/mehdihadeli/awesome-software-architecture",
-      "updated": "2026-09-22",
+      "updated": "2026-09-23",
       "avatar": "https://avatars.githubusercontent.com/u/3678399?v=4"
     },
     {
       "name": "mjhea0/awesome-fastapi",
       "desc": "A curated list of awesome things related to FastAPI",
-      "stars": 11674,
+      "stars": 11677,
       "lang": "",
       "url": "https://github.com/mjhea0/awesome-fastapi",
-      "updated": "2026-09-22",
+      "updated": "2026-09-23",
       "avatar": "https://avatars.githubusercontent.com/u/2018167?v=4"
     },
     {
       "name": "oz123/awesome-c",
       "desc": "A curated list of awesome C frameworks, libraries, resources and other shiny things. Inspired by all the other awesome-... projects out there.",
-      "stars": 11570,
+      "stars": 11571,
       "lang": "",
       "url": "https://github.com/oz123/awesome-c",
-      "updated": "2026-09-22",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/1083045?v=4"
     },
     {
       "name": "jnv/lists",
       "desc": "The definitive list of lists (of lists) curated on GitHub and elsewhere",
-      "stars": 11506,
+      "stars": 11507,
       "lang": "",
       "url": "https://github.com/jnv/lists",
-      "updated": "2026-09-22",
+      "updated": "2026-09-23",
       "avatar": "https://avatars.githubusercontent.com/u/616767?v=4"
     },
     {
@@ -1149,7 +1149,7 @@
     {
       "name": "wsvincent/awesome-django",
       "desc": "A curated list of awesome things related to Django",
-      "stars": 11256,
+      "stars": 11257,
       "lang": "Python",
       "url": "https://github.com/wsvincent/awesome-django",
       "updated": "2026-09-23",
@@ -1158,52 +1158,52 @@
     {
       "name": "edoardottt/awesome-hacker-search-engines",
       "desc": "A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more",
-      "stars": 11204,
+      "stars": 11206,
       "lang": "Shell",
       "url": "https://github.com/edoardottt/awesome-hacker-search-engines",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/35783570?v=4"
     },
     {
       "name": "Kristories/awesome-guidelines",
       "desc": "Programming style, best practices, and coding conventions.",
-      "stars": 11120,
+      "stars": 11124,
       "lang": "JavaScript",
       "url": "https://github.com/Kristories/awesome-guidelines",
-      "updated": "2026-09-22",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/774338?v=4"
     },
     {
       "name": "unicodeveloper/awesome-nextjs",
       "desc": ":notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about using Next.js (A minimalistic framework for universal server-rendered React applications)",
-      "stars": 11106,
+      "stars": 11105,
       "lang": "",
       "url": "https://github.com/unicodeveloper/awesome-nextjs",
-      "updated": "2026-09-22",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/2946769?v=4"
     },
     {
       "name": "pingcap/awesome-database-learning",
       "desc": "A list of learning materials to understand databases internals",
-      "stars": 11029,
+      "stars": 11031,
       "lang": "",
       "url": "https://github.com/pingcap/awesome-database-learning",
-      "updated": "2026-09-22",
+      "updated": "2026-09-23",
       "avatar": "https://avatars.githubusercontent.com/u/11855343?v=4"
     },
     {
       "name": "bnb/awesome-hyper",
       "desc": "🖥 Delightful Hyper plugins, themes, and resources",
-      "stars": 11008,
+      "stars": 11007,
       "lang": "",
       "url": "https://github.com/bnb/awesome-hyper",
-      "updated": "2026-09-21",
+      "updated": "2026-09-23",
       "avatar": "https://avatars.githubusercontent.com/u/502396?v=4"
     },
     {
       "name": "YSGStudyHards/DotNetGuide",
       "desc": "🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、技术前沿周刊、常见面试题、面试须知、简历模板、人才招聘、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。",
-      "stars": 10989,
+      "stars": 10990,
       "lang": "C#",
       "url": "https://github.com/YSGStudyHards/DotNetGuide",
       "updated": "2026-09-23",
@@ -1212,34 +1212,34 @@
     {
       "name": "webpro/awesome-dotfiles",
       "desc": "A curated list of dotfiles resources.",
-      "stars": 10877,
+      "stars": 10879,
       "lang": "",
       "url": "https://github.com/webpro/awesome-dotfiles",
-      "updated": "2026-09-22",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/456426?v=4"
     },
     {
       "name": "OffcierCia/DeFi-Developer-Road-Map",
       "desc": "DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references!",
-      "stars": 10832,
+      "stars": 10833,
       "lang": "JavaScript",
       "url": "https://github.com/OffcierCia/DeFi-Developer-Road-Map",
-      "updated": "2026-09-22",
+      "updated": "2026-09-23",
       "avatar": "https://avatars.githubusercontent.com/u/85769282?v=4"
     },
     {
       "name": "Calinou/awesome-godot",
       "desc": "A curated list of free/libre plugins, scripts and add-ons for Godot",
-      "stars": 10781,
+      "stars": 10783,
       "lang": "",
       "url": "https://github.com/Calinou/awesome-godot",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/180032?v=4"
     },
     {
       "name": "hslatman/awesome-threat-intelligence",
       "desc": "A curated list of Awesome Threat Intelligence resources",
-      "stars": 10670,
+      "stars": 10673,
       "lang": "",
       "url": "https://github.com/hslatman/awesome-threat-intelligence",
       "updated": "2026-09-23",
@@ -1251,106 +1251,106 @@
       "stars": 10565,
       "lang": "Python",
       "url": "https://github.com/paralax/awesome-honeypots",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/5619153?v=4"
     },
     {
       "name": "rothgar/awesome-tmux",
       "desc": "A list of awesome resources for tmux",
-      "stars": 10349,
+      "stars": 10351,
       "lang": "",
       "url": "https://github.com/rothgar/awesome-tmux",
-      "updated": "2026-09-22",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/371796?v=4"
     },
     {
       "name": "rehooks/awesome-react-hooks",
       "desc": "Awesome React Hooks",
-      "stars": 10257,
+      "stars": 10255,
       "lang": "",
       "url": "https://github.com/rehooks/awesome-react-hooks",
-      "updated": "2026-09-22",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/44476557?v=4"
+    },
+    {
+      "name": "laoma2053/awesome-zhuiju-free",
+      "desc": "免费无广告的追剧资源指南，人工精选资源、每天检测资源有效性。收录在线影视、影视APP、网盘搜索、磁力BT、字幕、TVBox / 影视仓空壳软件/配置地址、IPTV直播源、会员拼团、影视相关开源项目。开源，社区共同维护。",
+      "stars": 10128,
+      "lang": "JavaScript",
+      "url": "https://github.com/laoma2053/awesome-zhuiju-free",
+      "updated": "2026-09-24",
+      "avatar": "https://avatars.githubusercontent.com/u/169715751?v=4"
     },
     {
       "name": "awesome-lists/awesome-bash",
       "desc": "A curated list of delightful Bash scripts and resources.",
-      "stars": 10089,
+      "stars": 10092,
       "lang": "Shell",
       "url": "https://github.com/awesome-lists/awesome-bash",
-      "updated": "2026-09-22",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/8136974?v=4"
     },
     {
       "name": "PatrickJS/awesome-angular",
       "desc": ":page_facing_up: A curated list of awesome Angular resources",
-      "stars": 10076,
+      "stars": 10075,
       "lang": "HTML",
       "url": "https://github.com/PatrickJS/awesome-angular",
-      "updated": "2026-09-22",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/1016365?v=4"
     },
     {
       "name": "Atarity/deploy-your-own-saas",
       "desc": "List of \"only yours\" cloud services for everyday needs :black_flag:",
-      "stars": 10070,
+      "stars": 10073,
       "lang": "Python",
       "url": "https://github.com/Atarity/deploy-your-own-saas",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/502382?v=4"
     },
     {
       "name": "YouMind-OpenLab/awesome-gpt-image-2",
       "desc": "🚀 World's largest GPT Image 2 prompt library, updated daily — 2000+ curated prompts with preview images, 16 languages. OpenAI's next-gen image model with pixel-perfect text rendering, cross-image consistency, and commercial-grade illustration. Free & open source.",
-      "stars": 9936,
+      "stars": 9941,
       "lang": "TypeScript",
       "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/245655810?v=4"
     },
     {
       "name": "aalhour/awesome-compilers",
       "desc": ":sunglasses: Curated list of awesome resources on Compilers, Interpreters and Runtimes",
-      "stars": 9910,
+      "stars": 9909,
       "lang": "",
       "url": "https://github.com/aalhour/awesome-compilers",
-      "updated": "2026-09-22",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/1282375?v=4"
     },
     {
       "name": "lissy93/awesome-privacy",
       "desc": "🦄  A curated list of privacy & security-focused software and services",
-      "stars": 9895,
+      "stars": 9898,
       "lang": "Astro",
       "url": "https://github.com/lissy93/awesome-privacy",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/1862727?v=4"
-    },
-    {
-      "name": "laoma2053/awesome-zhuiju-free",
-      "desc": "免费无广告的追剧资源指南，人工精选资源、每天检测资源有效性。收录在线影视、影视APP、网盘搜索、磁力BT、字幕、TVBox / 影视仓空壳软件/配置地址、IPTV直播源、会员拼团、影视相关开源项目。开源，社区共同维护。",
-      "stars": 9895,
-      "lang": "JavaScript",
-      "url": "https://github.com/laoma2053/awesome-zhuiju-free",
-      "updated": "2026-09-23",
-      "avatar": "https://avatars.githubusercontent.com/u/169715751?v=4"
     },
     {
       "name": "swyxio/spark-joy",
       "desc": "Archived — Spark Joy now lives on Forge.",
-      "stars": 9789,
+      "stars": 9788,
       "lang": "",
       "url": "https://github.com/swyxio/spark-joy",
-      "updated": "2026-09-21",
+      "updated": "2026-09-23",
       "avatar": "https://avatars.githubusercontent.com/u/6764957?v=4"
     },
     {
       "name": "friuns2/BlackFriday-GPTs-Prompts",
       "desc": "List of free GPTs that doesn't require plus subscription",
-      "stars": 9779,
+      "stars": 9784,
       "lang": "",
       "url": "https://github.com/friuns2/BlackFriday-GPTs-Prompts",
-      "updated": "2026-09-22",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/16543239?v=4"
     },
     {
@@ -1359,7 +1359,7 @@
       "stars": 9706,
       "lang": "Makefile",
       "url": "https://github.com/ashishb/android-security-awesome",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/389236?v=4"
     },
     {
@@ -1374,19 +1374,19 @@
     {
       "name": "CodingDocs/awesome-java",
       "desc": "Collection of awesome Java project on Github(非常棒的 Java 开源项目集合).",
-      "stars": 9592,
+      "stars": 9593,
       "lang": "",
       "url": "https://github.com/CodingDocs/awesome-java",
-      "updated": "2026-09-22",
+      "updated": "2026-09-23",
       "avatar": "https://avatars.githubusercontent.com/u/80885507?v=4"
     },
     {
       "name": "kyrolabs/awesome-langchain",
       "desc": "😎 Awesome list of tools and projects with the awesome LangChain framework",
-      "stars": 9543,
+      "stars": 9545,
       "lang": "",
       "url": "https://github.com/kyrolabs/awesome-langchain",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/126075767?v=4"
     },
     {
@@ -1401,16 +1401,16 @@
     {
       "name": "marcelscruz/public-apis",
       "desc": "A collaborative list of public APIs for developers",
-      "stars": 9490,
+      "stars": 9494,
       "lang": "JavaScript",
       "url": "https://github.com/marcelscruz/public-apis",
-      "updated": "2026-09-22",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/12413903?v=4"
     },
     {
       "name": "kmaasrud/awesome-obsidian",
       "desc": "🕶️ Awesome stuff for Obsidian",
-      "stars": 9408,
+      "stars": 9413,
       "lang": "CSS",
       "url": "https://github.com/kmaasrud/awesome-obsidian",
       "updated": "2026-09-23",
@@ -1419,19 +1419,19 @@
     {
       "name": "meirwah/awesome-incident-response",
       "desc": "A curated list of tools for incident response",
-      "stars": 9404,
+      "stars": 9406,
       "lang": "",
       "url": "https://github.com/meirwah/awesome-incident-response",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/6059211?v=4"
     },
     {
       "name": "jivoi/awesome-ml-for-cybersecurity",
       "desc": ":octocat: Machine Learning for Cyber Security",
-      "stars": 9396,
+      "stars": 9401,
       "lang": "",
       "url": "https://github.com/jivoi/awesome-ml-for-cybersecurity",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/740995?v=4"
     },
     {
@@ -1440,40 +1440,40 @@
       "stars": 9394,
       "lang": "Python",
       "url": "https://github.com/yzhao062/anomaly-detection-resources",
-      "updated": "2026-09-22",
+      "updated": "2026-09-23",
       "avatar": "https://avatars.githubusercontent.com/u/15079146?v=4"
     },
     {
       "name": "emacs-tw/awesome-emacs",
       "desc": "A community driven list of useful Emacs packages, libraries and other items.",
-      "stars": 9375,
+      "stars": 9378,
       "lang": "",
       "url": "https://github.com/emacs-tw/awesome-emacs",
-      "updated": "2026-09-22",
+      "updated": "2026-09-23",
       "avatar": "https://avatars.githubusercontent.com/u/7908858?v=4"
-    },
-    {
-      "name": "AdrienTorris/awesome-blazor",
-      "desc": "Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.",
-      "stars": 9375,
-      "lang": "",
-      "url": "https://github.com/AdrienTorris/awesome-blazor",
-      "updated": "2026-09-22",
-      "avatar": "https://avatars.githubusercontent.com/u/1014357?v=4"
     },
     {
       "name": "awesome-jellyfin/awesome-jellyfin",
       "desc": "A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!",
-      "stars": 9369,
+      "stars": 9377,
       "lang": "Shell",
       "url": "https://github.com/awesome-jellyfin/awesome-jellyfin",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/113468489?v=4"
+    },
+    {
+      "name": "AdrienTorris/awesome-blazor",
+      "desc": "Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.",
+      "stars": 9372,
+      "lang": "",
+      "url": "https://github.com/AdrienTorris/awesome-blazor",
+      "updated": "2026-09-23",
+      "avatar": "https://avatars.githubusercontent.com/u/1014357?v=4"
     },
     {
       "name": "NirantK/awesome-project-ideas",
       "desc": "Curated list of Machine Learning, NLP, Vision, Recommender Systems Project Ideas",
-      "stars": 9319,
+      "stars": 9318,
       "lang": "",
       "url": "https://github.com/NirantK/awesome-project-ideas",
       "updated": "2026-09-23",
@@ -1491,61 +1491,61 @@
     {
       "name": "mendel5/alternative-front-ends",
       "desc": "Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)",
-      "stars": 9177,
+      "stars": 9178,
       "lang": "",
       "url": "https://github.com/mendel5/alternative-front-ends",
-      "updated": "2026-09-22",
+      "updated": "2026-09-23",
       "avatar": "https://avatars.githubusercontent.com/u/60322520?v=4"
     },
     {
       "name": "ai-collection/ai-collection",
       "desc": "The Generative AI Landscape - A Collection of Awesome Generative AI Applications",
-      "stars": 9171,
+      "stars": 9172,
       "lang": "",
       "url": "https://github.com/ai-collection/ai-collection",
       "updated": "2026-09-23",
       "avatar": "https://avatars.githubusercontent.com/u/121847954?v=4"
     },
     {
+      "name": "igorbarinov/awesome-data-engineering",
+      "desc": "A curated list of data engineering tools for software developers",
+      "stars": 9100,
+      "lang": "",
+      "url": "https://github.com/igorbarinov/awesome-data-engineering",
+      "updated": "2026-09-24",
+      "avatar": "https://avatars.githubusercontent.com/u/424628?v=4"
+    },
+    {
       "name": "davidsonfellipe/awesome-wpo",
       "desc": "A curated list of Web Performance Optimization.",
-      "stars": 9089,
+      "stars": 9091,
       "lang": "",
       "url": "https://github.com/davidsonfellipe/awesome-wpo",
       "updated": "2026-09-23",
       "avatar": "https://avatars.githubusercontent.com/u/381179?v=4"
     },
     {
-      "name": "igorbarinov/awesome-data-engineering",
-      "desc": "A curated list of data engineering tools for software developers",
-      "stars": 9079,
-      "lang": "",
-      "url": "https://github.com/igorbarinov/awesome-data-engineering",
-      "updated": "2026-09-22",
-      "avatar": "https://avatars.githubusercontent.com/u/424628?v=4"
-    },
-    {
       "name": "WangRongsheng/awesome-LLM-resources",
       "desc": "🧑‍🚀 全世界最好的LLM资料总结（多模态生成、Agent、辅助编程、AI审稿、数据处理、模型训练、模型推理、o1 模型、MCP、小语言模型、视觉语言模型） | Summary of the world's best LLM resources.",
-      "stars": 8977,
+      "stars": 8982,
       "lang": "",
       "url": "https://github.com/WangRongsheng/awesome-LLM-resources",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/55651568?v=4"
     },
     {
       "name": "ai-boost/awesome-prompts",
       "desc": "Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.",
-      "stars": 8927,
+      "stars": 8932,
       "lang": "",
       "url": "https://github.com/ai-boost/awesome-prompts",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/70333750?v=4"
     },
     {
       "name": "cipher387/osint_stuff_tool_collection",
       "desc": "A collection of several hundred online tools for OSINT",
-      "stars": 8858,
+      "stars": 8866,
       "lang": "HTML",
       "url": "https://github.com/cipher387/osint_stuff_tool_collection",
       "updated": "2026-09-23",
@@ -1554,38 +1554,38 @@
     {
       "name": "frenck/awesome-home-assistant",
       "desc": "A curated list of amazingly awesome Home Assistant resources.",
-      "stars": 8472,
+      "stars": 8473,
       "lang": "Python",
       "url": "https://github.com/frenck/awesome-home-assistant",
-      "updated": "2026-09-22",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/195327?v=4"
     },
     {
       "name": "grpc-ecosystem/awesome-grpc",
       "desc": "A curated list of useful resources for gRPC",
-      "stars": 8357,
+      "stars": 8355,
       "lang": "",
       "url": "https://github.com/grpc-ecosystem/awesome-grpc",
-      "updated": "2026-09-20",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/19352526?v=4"
-    },
-    {
-      "name": "jamez-bondos/awesome-gpt4o-images",
-      "desc": "Awesome curated collection of images and prompts generated by GPT-4o and gpt-image-1. Explore AI generated visuals created with ChatGPT and Sora, showcasing OpenAI’s advanced image generation capabilities.",
-      "stars": 8151,
-      "lang": "JavaScript",
-      "url": "https://github.com/jamez-bondos/awesome-gpt4o-images",
-      "updated": "2026-09-23",
-      "avatar": "https://avatars.githubusercontent.com/u/202651917?v=4"
     },
     {
       "name": "mnfst/awesome-free-llm-apis",
       "desc": "List of Permanent Free LLM API  (API Keys)",
-      "stars": 8141,
+      "stars": 8217,
       "lang": "JavaScript",
       "url": "https://github.com/mnfst/awesome-free-llm-apis",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/8403534?v=4"
+    },
+    {
+      "name": "jamez-bondos/awesome-gpt4o-images",
+      "desc": "Awesome curated collection of images and prompts generated by GPT-4o and gpt-image-1. Explore AI generated visuals created with ChatGPT and Sora, showcasing OpenAI’s advanced image generation capabilities.",
+      "stars": 8152,
+      "lang": "JavaScript",
+      "url": "https://github.com/jamez-bondos/awesome-gpt4o-images",
+      "updated": "2026-09-24",
+      "avatar": "https://avatars.githubusercontent.com/u/202651917?v=4"
     },
     {
       "name": "rust-embedded/awesome-embedded-rust",
@@ -1599,25 +1599,25 @@
     {
       "name": "tauri-apps/awesome-tauri",
       "desc": "🚀 Awesome Tauri Apps, Plugins and Resources",
-      "stars": 8083,
+      "stars": 8084,
       "lang": "",
       "url": "https://github.com/tauri-apps/awesome-tauri",
-      "updated": "2026-09-22",
+      "updated": "2026-09-23",
       "avatar": "https://avatars.githubusercontent.com/u/54536011?v=4"
     },
     {
       "name": "bnb/awesome-developer-streams",
       "desc": "👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming",
-      "stars": 8026,
+      "stars": 8024,
       "lang": "",
       "url": "https://github.com/bnb/awesome-developer-streams",
-      "updated": "2026-09-22",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/502396?v=4"
     },
     {
       "name": "JoseDeFreitas/awesome-youtubers",
       "desc": "An awesome list of awesome YouTubers that teach about technology. Tutorials about web development, computer science, machine learning, game development, cybersecurity, and more.",
-      "stars": 7816,
+      "stars": 7819,
       "lang": "Markdown",
       "url": "https://github.com/JoseDeFreitas/awesome-youtubers",
       "updated": "2026-09-23",
@@ -1626,7 +1626,7 @@
     {
       "name": "jakejarvis/awesome-shodan-queries",
       "desc": "🔍 A collection of interesting, funny, and depressing search queries to plug into shodan.io 👩‍💻",
-      "stars": 7746,
+      "stars": 7748,
       "lang": "",
       "url": "https://github.com/jakejarvis/awesome-shodan-queries",
       "updated": "2026-09-23",
@@ -1635,16 +1635,16 @@
     {
       "name": "Axorax/awesome-free-apps",
       "desc": "Curated list of the best free apps for PC and mobile",
-      "stars": 7719,
+      "stars": 7723,
       "lang": "JavaScript",
       "url": "https://github.com/Axorax/awesome-free-apps",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/78349410?v=4"
     },
     {
       "name": "reHackable/awesome-reMarkable",
       "desc": "A curated list of projects related to the reMarkable tablet",
-      "stars": 7709,
+      "stars": 7713,
       "lang": "",
       "url": "https://github.com/reHackable/awesome-reMarkable",
       "updated": "2026-09-23",
@@ -1653,46 +1653,46 @@
     {
       "name": "linsa-io/books",
       "desc": "Awesome Books",
-      "stars": 7664,
+      "stars": 7667,
       "lang": "",
       "url": "https://github.com/linsa-io/books",
-      "updated": "2026-09-22",
+      "updated": "2026-09-23",
       "avatar": "https://avatars.githubusercontent.com/u/28766659?v=4"
+    },
+    {
+      "name": "mmccaff/PlacesToPostYourStartup",
+      "desc": "Compiled list of links from \"Ask HN: Where can I post my startup to get beta users?\"",
+      "stars": 7634,
+      "lang": "",
+      "url": "https://github.com/mmccaff/PlacesToPostYourStartup",
+      "updated": "2026-09-24",
+      "avatar": "https://avatars.githubusercontent.com/u/1039597?v=4"
     },
     {
       "name": "cporter202/API-mega-list",
       "desc": "This GitHub repo is a powerhouse collection of APIs you can start using immediately to build everything from simple automations to full-scale applications. One of the most valuable API lists on GitHub—period. 💪",
-      "stars": 7633,
+      "stars": 7634,
       "lang": "JavaScript",
       "url": "https://github.com/cporter202/API-mega-list",
-      "updated": "2026-09-22",
+      "updated": "2026-09-23",
       "avatar": "https://avatars.githubusercontent.com/u/163957687?v=4"
     },
     {
       "name": "0xInfection/Awesome-WAF",
       "desc": "Everything about Web Application Firewalls (WAFs) from Security Standpoint! 🔥",
-      "stars": 7628,
+      "stars": 7630,
       "lang": "Python",
       "url": "https://github.com/0xInfection/Awesome-WAF",
       "updated": "2026-09-23",
       "avatar": "https://avatars.githubusercontent.com/u/39941993?v=4"
     },
     {
-      "name": "mmccaff/PlacesToPostYourStartup",
-      "desc": "Compiled list of links from \"Ask HN: Where can I post my startup to get beta users?\"",
-      "stars": 7621,
-      "lang": "",
-      "url": "https://github.com/mmccaff/PlacesToPostYourStartup",
-      "updated": "2026-09-23",
-      "avatar": "https://avatars.githubusercontent.com/u/1039597?v=4"
-    },
-    {
       "name": "HKUSTDial/Supervisor-Skills",
       "desc": "将博导十年科研经验炼化为可直接调用的 AI 技能。从 Idea 构思到论文投稿，你的 AI 科研副导师。",
-      "stars": 7440,
+      "stars": 7491,
       "lang": "Python",
       "url": "https://github.com/HKUSTDial/Supervisor-Skills",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/176130785?v=4"
     },
     {
@@ -1707,19 +1707,19 @@
     {
       "name": "liuchong/awesome-roadmaps",
       "desc": "A curated list of roadmaps.",
-      "stars": 7363,
+      "stars": 7360,
       "lang": "",
       "url": "https://github.com/liuchong/awesome-roadmaps",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/236058?v=4"
     },
     {
       "name": "agmmnn/awesome-blender",
       "desc": "🪐 A curated list of awesome Blender addons, tools, tutorials; and 3D resources for everyone.",
-      "stars": 7357,
+      "stars": 7358,
       "lang": "",
       "url": "https://github.com/agmmnn/awesome-blender",
-      "updated": "2026-09-22",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/16024979?v=4"
     },
     {
@@ -1728,7 +1728,7 @@
       "stars": 7322,
       "lang": "JavaScript",
       "url": "https://github.com/shekhargulati/52-technologies-in-2016",
-      "updated": "2026-09-22",
+      "updated": "2026-09-23",
       "avatar": "https://avatars.githubusercontent.com/u/184091?v=4"
     },
     {
@@ -1743,19 +1743,19 @@
     {
       "name": "WenyuChiou/awesome-agentic-ai-zh",
       "desc": "A trilingual (繁中 / English / 简中) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ curated resources and hands-on examples. 中文 AI agent 學習地圖。",
-      "stars": 7149,
+      "stars": 7164,
       "lang": "Python",
       "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/162016108?v=4"
     },
     {
       "name": "ChromeDevTools/awesome-chrome-devtools",
       "desc": "Awesome tooling and resources in the Chrome DevTools & DevTools Protocol ecosystem",
-      "stars": 7146,
+      "stars": 7147,
       "lang": "",
       "url": "https://github.com/ChromeDevTools/awesome-chrome-devtools",
-      "updated": "2026-09-22",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/11260967?v=4"
     },
     {
@@ -1770,7 +1770,7 @@
     {
       "name": "sobolevn/awesome-cryptography",
       "desc": "A curated list of cryptography resources and links.",
-      "stars": 7124,
+      "stars": 7125,
       "lang": "",
       "url": "https://github.com/sobolevn/awesome-cryptography",
       "updated": "2026-09-23",
@@ -1788,34 +1788,34 @@
     {
       "name": "likedan/Awesome-CoreML-Models",
       "desc": "Largest list of models for Core ML (for iOS 11+)",
-      "stars": 7059,
+      "stars": 7060,
       "lang": "Python",
       "url": "https://github.com/likedan/Awesome-CoreML-Models",
-      "updated": "2026-09-22",
+      "updated": "2026-09-23",
       "avatar": "https://avatars.githubusercontent.com/u/8799955?v=4"
     },
     {
       "name": "bkrem/awesome-solidity",
       "desc": "⟠ A curated list of awesome Solidity resources, libraries, tools and more",
-      "stars": 7050,
+      "stars": 7052,
       "lang": "",
       "url": "https://github.com/bkrem/awesome-solidity",
-      "updated": "2026-09-22",
+      "updated": "2026-09-23",
       "avatar": "https://avatars.githubusercontent.com/u/8663099?v=4"
     },
     {
       "name": "EdoStra/Marketing-for-Founders",
       "desc": "Practical marketing resources to get the first 10 / 100 / 1000 users for your SaaS / App / Startup",
-      "stars": 6949,
+      "stars": 6952,
       "lang": "",
       "url": "https://github.com/EdoStra/Marketing-for-Founders",
-      "updated": "2026-09-22",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/90309378?v=4"
     },
     {
       "name": "sottlmarek/DevSecOps",
       "desc": "Ultimate DevSecOps library",
-      "stars": 6880,
+      "stars": 6885,
       "lang": "",
       "url": "https://github.com/sottlmarek/DevSecOps",
       "updated": "2026-09-23",
@@ -1824,7 +1824,7 @@
     {
       "name": "piotrkulpinski/open-source-alternatives",
       "desc": "Curated list of open source alternatives to proprietary software.",
-      "stars": 6734,
+      "stars": 6737,
       "lang": "",
       "url": "https://github.com/piotrkulpinski/open-source-alternatives",
       "updated": "2026-09-23",
@@ -1833,10 +1833,10 @@
     {
       "name": "dastergon/awesome-chaos-engineering",
       "desc": "A curated list of Chaos Engineering resources.",
-      "stars": 6655,
+      "stars": 6656,
       "lang": "",
       "url": "https://github.com/dastergon/awesome-chaos-engineering",
-      "updated": "2026-09-21",
+      "updated": "2026-09-23",
       "avatar": "https://avatars.githubusercontent.com/u/1192342?v=4"
     },
     {
@@ -1854,22 +1854,22 @@
       "stars": 6628,
       "lang": "",
       "url": "https://github.com/pditommaso/awesome-pipeline",
-      "updated": "2026-09-22",
+      "updated": "2026-09-23",
       "avatar": "https://avatars.githubusercontent.com/u/816968?v=4"
     },
     {
       "name": "georgezouq/awesome-ai-in-finance",
       "desc": "🔬 A curated list of awesome LLMs & deep learning strategies & tools in financial market.",
-      "stars": 6604,
+      "stars": 6608,
       "lang": "",
       "url": "https://github.com/georgezouq/awesome-ai-in-finance",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/5990860?v=4"
     },
     {
       "name": "shuaibiyy/awesome-tf",
       "desc": "Curated list of resources on HashiCorp's Terraform and OpenTofu",
-      "stars": 6595,
+      "stars": 6596,
       "lang": "",
       "url": "https://github.com/shuaibiyy/awesome-tf",
       "updated": "2026-09-23",
@@ -1887,16 +1887,16 @@
     {
       "name": "sirredbeard/awesome-wsl",
       "desc": "Awesome list dedicated to Windows Subsystem for Linux",
-      "stars": 6566,
+      "stars": 6568,
       "lang": "",
       "url": "https://github.com/sirredbeard/awesome-wsl",
-      "updated": "2026-09-22",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/33820650?v=4"
     },
     {
       "name": "decalage2/awesome-security-hardening",
       "desc": "A collection of awesome security hardening guides, tools and other resources",
-      "stars": 6555,
+      "stars": 6556,
       "lang": "",
       "url": "https://github.com/decalage2/awesome-security-hardening",
       "updated": "2026-09-23",
@@ -1905,16 +1905,16 @@
     {
       "name": "chubin/awesome-console-services",
       "desc": "A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)",
-      "stars": 6533,
+      "stars": 6534,
       "lang": "",
       "url": "https://github.com/chubin/awesome-console-services",
-      "updated": "2026-09-22",
+      "updated": "2026-09-23",
       "avatar": "https://avatars.githubusercontent.com/u/3875145?v=4"
     },
     {
       "name": "faridrashidi/kaggle-solutions",
       "desc": "🏅 Collection of Kaggle Solutions and Ideas 🏅",
-      "stars": 6521,
+      "stars": 6523,
       "lang": "Astro",
       "url": "https://github.com/faridrashidi/kaggle-solutions",
       "updated": "2026-09-23",
@@ -1944,53 +1944,53 @@
       "stars": 6418,
       "lang": "",
       "url": "https://github.com/sindresorhus/awesome-chatgpt",
-      "updated": "2026-09-22",
+      "updated": "2026-09-23",
       "avatar": "https://avatars.githubusercontent.com/u/170270?v=4"
     },
     {
       "name": "reorx/awesome-chatgpt-api",
       "desc": "Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota.",
-      "stars": 6416,
+      "stars": 6415,
       "lang": "Python",
       "url": "https://github.com/reorx/awesome-chatgpt-api",
-      "updated": "2026-09-22",
+      "updated": "2026-09-23",
       "avatar": "https://avatars.githubusercontent.com/u/405972?v=4"
     },
     {
       "name": "vavkamil/awesome-bugbounty-tools",
       "desc": "A curated list of various bug bounty tools",
-      "stars": 6272,
+      "stars": 6274,
       "lang": "",
       "url": "https://github.com/vavkamil/awesome-bugbounty-tools",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/47953210?v=4"
     },
     {
       "name": "mahseema/awesome-ai-tools",
       "desc": "A curated list of Artificial Intelligence Top Tools",
-      "stars": 6262,
+      "stars": 6266,
       "lang": "",
       "url": "https://github.com/mahseema/awesome-ai-tools",
-      "updated": "2026-09-22",
+      "updated": "2026-09-23",
       "avatar": "https://avatars.githubusercontent.com/u/143227828?v=4"
-    },
-    {
-      "name": "heilcheng/awesome-agent-skills",
-      "desc": "Tutorials, Guides and Agent Skills Directories",
-      "stars": 6226,
-      "lang": "TypeScript",
-      "url": "https://github.com/heilcheng/awesome-agent-skills",
-      "updated": "2026-09-22",
-      "avatar": "https://avatars.githubusercontent.com/u/155233908?v=4"
     },
     {
       "name": "VoltAgent/awesome-codex-subagents",
       "desc": "A collection of 130+ specialized Codex subagents covering a wide range of development use cases.",
-      "stars": 6224,
+      "stars": 6232,
       "lang": "",
       "url": "https://github.com/VoltAgent/awesome-codex-subagents",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/201282378?v=4"
+    },
+    {
+      "name": "heilcheng/awesome-agent-skills",
+      "desc": "Tutorials, Guides and Agent Skills Directories",
+      "stars": 6229,
+      "lang": "TypeScript",
+      "url": "https://github.com/heilcheng/awesome-agent-skills",
+      "updated": "2026-09-23",
+      "avatar": "https://avatars.githubusercontent.com/u/155233908?v=4"
     },
     {
       "name": "Vedenin/useful-java-links",
@@ -2004,19 +2004,19 @@
     {
       "name": "ikaijua/Awesome-AITools",
       "desc": "Collection of AI-related utilities. Welcome to submit pull requests /收藏AI相关的实用工具，欢迎提交pull requests",
-      "stars": 6193,
+      "stars": 6194,
       "lang": "Python",
       "url": "https://github.com/ikaijua/Awesome-AITools",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/126046795?v=4"
     },
     {
       "name": "EwingYangs/awesome-open-gpt",
       "desc": "Collection of Open Source Projects Related to GPT，GPT相关开源项目合集🚀、精选🔥🔥",
-      "stars": 6051,
+      "stars": 6052,
       "lang": "Python",
       "url": "https://github.com/EwingYangs/awesome-open-gpt",
-      "updated": "2026-09-22",
+      "updated": "2026-09-23",
       "avatar": "https://avatars.githubusercontent.com/u/24787600?v=4"
     },
     {
@@ -2025,16 +2025,16 @@
       "stars": 5945,
       "lang": "Shell",
       "url": "https://github.com/tensorchord/Awesome-LLMOps",
-      "updated": "2026-09-22",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/100543303?v=4"
     },
     {
       "name": "secfigo/Awesome-Fuzzing",
       "desc": "A curated list of fuzzing resources ( Books, courses - free and paid, videos, tools, tutorials and vulnerable applications to practice on ) for learning Fuzzing and initial phases of Exploit Development like root cause analysis.",
-      "stars": 5915,
+      "stars": 5914,
       "lang": "",
       "url": "https://github.com/secfigo/Awesome-Fuzzing",
-      "updated": "2026-09-21",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/11695998?v=4"
     },
     {
@@ -2061,16 +2061,16 @@
       "stars": 5850,
       "lang": "",
       "url": "https://github.com/micromata/awesome-javascript-learning",
-      "updated": "2026-09-22",
+      "updated": "2026-09-23",
       "avatar": "https://avatars.githubusercontent.com/u/1773167?v=4"
     },
     {
       "name": "ebertti/awesome-telegram",
       "desc": "Collection great groups, channels, bots and libraries for Telegram",
-      "stars": 5829,
+      "stars": 5831,
       "lang": "",
       "url": "https://github.com/ebertti/awesome-telegram",
-      "updated": "2026-09-22",
+      "updated": "2026-09-23",
       "avatar": "https://avatars.githubusercontent.com/u/140394?v=4"
     },
     {
@@ -2083,27 +2083,27 @@
       "avatar": "https://avatars.githubusercontent.com/u/5156236?v=4"
     },
     {
-      "name": "lauragift21/awesome-learning-resources",
-      "desc": "🔥 Awesome list of resources on Web Development.",
-      "stars": 5770,
-      "lang": "",
-      "url": "https://github.com/lauragift21/awesome-learning-resources",
-      "updated": "2026-09-23",
-      "avatar": "https://avatars.githubusercontent.com/u/17781315?v=4"
-    },
-    {
       "name": "PanXProject/awesome-certificates",
       "desc": "Curated list of 20,000+ hours and 200+ free courses with certificates in IT, CS, Design and Business.",
-      "stars": 5767,
+      "stars": 5771,
       "lang": "",
       "url": "https://github.com/PanXProject/awesome-certificates",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/19953752?v=4"
+    },
+    {
+      "name": "lauragift21/awesome-learning-resources",
+      "desc": "🔥 Awesome list of resources on Web Development.",
+      "stars": 5769,
+      "lang": "",
+      "url": "https://github.com/lauragift21/awesome-learning-resources",
+      "updated": "2026-09-24",
+      "avatar": "https://avatars.githubusercontent.com/u/17781315?v=4"
     },
     {
       "name": "0xNyk/awesome-hermes-agent",
       "desc": "Independent directory of useful skills, plugins, memory providers, tools, surfaces, and guides for Nous Research's open-source Hermes Agent.",
-      "stars": 5732,
+      "stars": 5736,
       "lang": "",
       "url": "https://github.com/0xNyk/awesome-hermes-agent",
       "updated": "2026-09-23",
@@ -2121,19 +2121,19 @@
     {
       "name": "fabacab/awesome-cybersecurity-blueteam",
       "desc": ":computer:🛡️ A curated collection of awesome resources, tools, and other shiny things for cybersecurity blue teams.",
-      "stars": 5576,
+      "stars": 5577,
       "lang": "",
       "url": "https://github.com/fabacab/awesome-cybersecurity-blueteam",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/18677?v=4"
     },
     {
       "name": "nuxt/awesome",
       "desc": "A curated list of awesome things related to Nuxt.js",
-      "stars": 5530,
+      "stars": 5529,
       "lang": "",
       "url": "https://github.com/nuxt/awesome",
-      "updated": "2026-09-21",
+      "updated": "2026-09-23",
       "avatar": "https://avatars.githubusercontent.com/u/23360933?v=4"
     },
     {
@@ -2148,19 +2148,19 @@
     {
       "name": "nix-community/awesome-nix",
       "desc": "😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]",
-      "stars": 5451,
+      "stars": 5454,
       "lang": "",
       "url": "https://github.com/nix-community/awesome-nix",
-      "updated": "2026-09-22",
+      "updated": "2026-09-23",
       "avatar": "https://avatars.githubusercontent.com/u/33221035?v=4"
     },
     {
       "name": "onqtam/awesome-cmake",
       "desc": "A curated list of awesome CMake resources, scripts, modules and examples.",
-      "stars": 5417,
+      "stars": 5418,
       "lang": "",
       "url": "https://github.com/onqtam/awesome-cmake",
-      "updated": "2026-09-22",
+      "updated": "2026-09-23",
       "avatar": "https://avatars.githubusercontent.com/u/4648169?v=4"
     },
     {
@@ -2175,16 +2175,16 @@
     {
       "name": "hyprland-community/awesome-hyprland",
       "desc": "Awesome list for Hyprland [maintainer=@yavko]",
-      "stars": 5328,
+      "stars": 5330,
       "lang": "",
       "url": "https://github.com/hyprland-community/awesome-hyprland",
-      "updated": "2026-09-22",
+      "updated": "2026-09-23",
       "avatar": "https://avatars.githubusercontent.com/u/120158726?v=4"
     },
     {
       "name": "mgramin/awesome-db-tools",
       "desc": "Everything that makes working with databases easier",
-      "stars": 5315,
+      "stars": 5316,
       "lang": "",
       "url": "https://github.com/mgramin/awesome-db-tools",
       "updated": "2026-09-23",
@@ -2193,19 +2193,19 @@
     {
       "name": "sacridini/Awesome-Geospatial",
       "desc": "Long list of geospatial tools and resources",
-      "stars": 5294,
+      "stars": 5297,
       "lang": "",
       "url": "https://github.com/sacridini/Awesome-Geospatial",
-      "updated": "2026-09-22",
+      "updated": "2026-09-23",
       "avatar": "https://avatars.githubusercontent.com/u/7756611?v=4"
     },
     {
       "name": "filipecalegario/awesome-vibe-coding",
       "desc": "A curated list of vibe coding references, collaborating with AI to write code.",
-      "stars": 5276,
+      "stars": 5277,
       "lang": "",
       "url": "https://github.com/filipecalegario/awesome-vibe-coding",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/299057?v=4"
     },
     {
@@ -2218,39 +2218,39 @@
       "avatar": "https://avatars.githubusercontent.com/u/13899619?v=4"
     },
     {
+      "name": "nyas1/Material-You-app-list",
+      "desc": "🍦 A well organized & frequently updated collection of apps that support material you design.",
+      "stars": 5200,
+      "lang": "",
+      "url": "https://github.com/nyas1/Material-You-app-list",
+      "updated": "2026-09-23",
+      "avatar": "https://avatars.githubusercontent.com/u/85426900?v=4"
+    },
+    {
       "name": "lerrua/remote-jobs-brazil",
       "desc": "Lista de empresas com trabalho remoto no Brasil",
-      "stars": 5201,
+      "stars": 5199,
       "lang": "",
       "url": "https://github.com/lerrua/remote-jobs-brazil",
       "updated": "2026-09-23",
       "avatar": "https://avatars.githubusercontent.com/u/154603?v=4"
     },
     {
-      "name": "nyas1/Material-You-app-list",
-      "desc": "🍦 A well organized & frequently updated collection of apps that support material you design.",
-      "stars": 5200,
-      "lang": "",
-      "url": "https://github.com/nyas1/Material-You-app-list",
-      "updated": "2026-09-22",
-      "avatar": "https://avatars.githubusercontent.com/u/85426900?v=4"
-    },
-    {
       "name": "rajnandan1/kener",
       "desc": "Stunning status pages, batteries included!",
-      "stars": 5174,
+      "stars": 5177,
       "lang": "TypeScript",
       "url": "https://github.com/rajnandan1/kener",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/16224367?v=4"
     },
     {
       "name": "qmonnet/awesome-ebpf",
       "desc": "A curated list of awesome projects related to eBPF.",
-      "stars": 5170,
+      "stars": 5173,
       "lang": "",
       "url": "https://github.com/qmonnet/awesome-ebpf",
-      "updated": "2026-09-20",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/17001771?v=4"
     },
     {
@@ -2259,26 +2259,26 @@
       "stars": 5169,
       "lang": "",
       "url": "https://github.com/sindresorhus/promise-fun",
-      "updated": "2026-09-21",
+      "updated": "2026-09-23",
       "avatar": "https://avatars.githubusercontent.com/u/170270?v=4"
-    },
-    {
-      "name": "wangzhe3224/awesome-systematic-trading",
-      "desc": "A curated list of insanely awesome libraries, packages and resources for systematic trading. Crypto, Stock, Futures, Options, CFDs, FX, and more | 量化交易 | 量化投资",
-      "stars": 5160,
-      "lang": "HTML",
-      "url": "https://github.com/wangzhe3224/awesome-systematic-trading",
-      "updated": "2026-09-22",
-      "avatar": "https://avatars.githubusercontent.com/u/8540575?v=4"
     },
     {
       "name": "cheatsnake/backend-cheats",
       "desc": "📃 White paper for Backend developers",
-      "stars": 5159,
+      "stars": 5168,
       "lang": "",
       "url": "https://github.com/cheatsnake/backend-cheats",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/72691412?v=4"
+    },
+    {
+      "name": "wangzhe3224/awesome-systematic-trading",
+      "desc": "A curated list of insanely awesome libraries, packages and resources for systematic trading. Crypto, Stock, Futures, Options, CFDs, FX, and more | 量化交易 | 量化投资",
+      "stars": 5163,
+      "lang": "HTML",
+      "url": "https://github.com/wangzhe3224/awesome-systematic-trading",
+      "updated": "2026-09-24",
+      "avatar": "https://avatars.githubusercontent.com/u/8540575?v=4"
     },
     {
       "name": "joho/awesome-code-review",
@@ -2286,7 +2286,7 @@
       "stars": 5154,
       "lang": "",
       "url": "https://github.com/joho/awesome-code-review",
-      "updated": "2026-09-21",
+      "updated": "2026-09-23",
       "avatar": "https://avatars.githubusercontent.com/u/4092?v=4"
     },
     {
@@ -2301,28 +2301,28 @@
     {
       "name": "timofurrer/awesome-asyncio",
       "desc": "A curated list of awesome Python asyncio frameworks, libraries, software and resources",
-      "stars": 5131,
+      "stars": 5132,
       "lang": "",
       "url": "https://github.com/timofurrer/awesome-asyncio",
-      "updated": "2026-09-22",
+      "updated": "2026-09-23",
       "avatar": "https://avatars.githubusercontent.com/u/1008252?v=4"
     },
     {
       "name": "hahwul/WebHackersWeapons",
       "desc": "⚔️ Web Hacker's Weapons / A collection of cool tools used by Web hackers. Happy hacking , Happy bug-hunting",
-      "stars": 5076,
+      "stars": 5077,
       "lang": "Ruby",
       "url": "https://github.com/hahwul/WebHackersWeapons",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/13212227?v=4"
     },
     {
       "name": "sindresorhus/awesome-scifi",
       "desc": "Sci-Fi worth consuming",
-      "stars": 5057,
+      "stars": 5058,
       "lang": "",
       "url": "https://github.com/sindresorhus/awesome-scifi",
-      "updated": "2026-09-22",
+      "updated": "2026-09-23",
       "avatar": "https://avatars.githubusercontent.com/u/170270?v=4"
     },
     {
@@ -2340,16 +2340,16 @@
       "stars": 4921,
       "lang": "JavaScript",
       "url": "https://github.com/hemanth/awesome-pwa",
-      "updated": "2026-09-22",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/18315?v=4"
     },
     {
       "name": "may215/awesome-termux-hacking",
       "desc": "⚡️An awesome list of the best Termux hacking tools",
-      "stars": 4831,
+      "stars": 4833,
       "lang": "",
       "url": "https://github.com/may215/awesome-termux-hacking",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/1849258?v=4"
     },
     {
@@ -2364,19 +2364,19 @@
     {
       "name": "alvinreal/awesome-opensource-ai",
       "desc": "Curated list of the best truly open-source AI projects, models, tools, and infrastructure. Daily updated.",
-      "stars": 4773,
+      "stars": 4774,
       "lang": "Python",
       "url": "https://github.com/alvinreal/awesome-opensource-ai",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/262747402?v=4"
     },
     {
       "name": "nikolaydubina/go-recipes",
       "desc": "🦩 Tools for Go projects",
-      "stars": 4762,
+      "stars": 4770,
       "lang": "Go",
       "url": "https://github.com/nikolaydubina/go-recipes",
-      "updated": "2026-09-22",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/2933061?v=4"
     },
     {
@@ -2391,25 +2391,25 @@
     {
       "name": "sindresorhus/awesome-npm",
       "desc": "Awesome npm resources and tips",
-      "stars": 4737,
+      "stars": 4738,
       "lang": "",
       "url": "https://github.com/sindresorhus/awesome-npm",
-      "updated": "2026-09-20",
+      "updated": "2026-09-23",
       "avatar": "https://avatars.githubusercontent.com/u/170270?v=4"
     },
     {
       "name": "gostor/awesome-go-storage",
       "desc": "A curated list of awesome Go storage projects and libraries",
-      "stars": 4732,
+      "stars": 4733,
       "lang": "",
       "url": "https://github.com/gostor/awesome-go-storage",
-      "updated": "2026-09-20",
+      "updated": "2026-09-23",
       "avatar": "https://avatars.githubusercontent.com/u/16220608?v=4"
     },
     {
       "name": "0x4D31/awesome-threat-detection",
       "desc": "✨ A curated list of awesome threat detection and hunting resources 🕵️‍♂️",
-      "stars": 4729,
+      "stars": 4732,
       "lang": "",
       "url": "https://github.com/0x4D31/awesome-threat-detection",
       "updated": "2026-09-23",
@@ -2418,10 +2418,10 @@
     {
       "name": "awesome-android-root/awesome-android-root",
       "desc": "Discover best root apps, Magisk, KernelSu & LSPosed(xposed) modules & rooting guides",
-      "stars": 4720,
+      "stars": 4729,
       "lang": "Markdown",
       "url": "https://github.com/awesome-android-root/awesome-android-root",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "avatar": "https://avatars.githubusercontent.com/u/215769802?v=4"
     },
     {
@@ -2436,10 +2436,10 @@
     {
       "name": "webpack-contrib/awesome-webpack",
       "desc": "A curated list of awesome Webpack resources, libraries and tools",
-      "stars": 4675,
+      "stars": 4674,
       "lang": "HTML",
       "url": "https://github.com/webpack-contrib/awesome-webpack",
-      "updated": "2026-09-14",
+      "updated": "2026-09-23",
       "avatar": "https://avatars.githubusercontent.com/u/25012217?v=4"
     },
     {
@@ -2463,10 +2463,10 @@
     {
       "name": "jaredthecoder/awesome-vehicle-security",
       "desc": "🚗  A curated list of resources for learning about vehicle security and car hacking.",
-      "stars": 4641,
+      "stars": 4642,
       "lang": "",
       "url": "https://github.com/jaredthecoder/awesome-vehicle-security",
-      "updated": "2026-09-22",
+      "updated": "2026-09-23",
       "avatar": "https://avatars.githubusercontent.com/u/7459310?v=4"
     },
     {
@@ -2499,11 +2499,20 @@
     {
       "name": "HQarroum/awesome-iot",
       "desc": "🤖 A curated list of awesome Internet of Things projects and resources.",
-      "stars": 4514,
+      "stars": 4515,
       "lang": "",
       "url": "https://github.com/HQarroum/awesome-iot",
-      "updated": "2026-09-21",
+      "updated": "2026-09-23",
       "avatar": "https://avatars.githubusercontent.com/u/1384633?v=4"
+    },
+    {
+      "name": "gbdev/awesome-gbdev",
+      "desc": "A curated list of Game Boy development resources such as tools, docs, emulators, related projects and open-source ROMs.",
+      "stars": 4512,
+      "lang": "",
+      "url": "https://github.com/gbdev/awesome-gbdev",
+      "updated": "2026-09-23",
+      "avatar": "https://avatars.githubusercontent.com/u/29732935?v=4"
     },
     {
       "name": "fosslife/awesome-ricing",
@@ -2511,26 +2520,26 @@
       "stars": 4512,
       "lang": "",
       "url": "https://github.com/fosslife/awesome-ricing",
-      "updated": "2026-09-22",
+      "updated": "2026-09-23",
       "avatar": "https://avatars.githubusercontent.com/u/45305425?v=4"
-    },
-    {
-      "name": "gbdev/awesome-gbdev",
-      "desc": "A curated list of Game Boy development resources such as tools, docs, emulators, related projects and open-source ROMs.",
-      "stars": 4511,
-      "lang": "",
-      "url": "https://github.com/gbdev/awesome-gbdev",
-      "updated": "2026-09-22",
-      "avatar": "https://avatars.githubusercontent.com/u/29732935?v=4"
     },
     {
       "name": "love2d-community/awesome-love2d",
       "desc": "A curated list of amazingly awesome LÖVE libraries, resources and shiny things.",
-      "stars": 4505,
+      "stars": 4506,
       "lang": "PowerShell",
       "url": "https://github.com/love2d-community/awesome-love2d",
       "updated": "2026-09-23",
       "avatar": "https://avatars.githubusercontent.com/u/17165675?v=4"
+    },
+    {
+      "name": "ai-boost/awesome-harness-engineering",
+      "desc": "Awesome list for AI agent harness engineering: tools, patterns, evals, memory, MCP, permissions, observability, and orchestration.",
+      "stars": 4493,
+      "lang": "Python",
+      "url": "https://github.com/ai-boost/awesome-harness-engineering",
+      "updated": "2026-09-24",
+      "avatar": "https://avatars.githubusercontent.com/u/70333750?v=4"
     },
     {
       "name": "baba-s/awesome-unity-open-source-on-github",
@@ -2540,15 +2549,6 @@
       "url": "https://github.com/baba-s/awesome-unity-open-source-on-github",
       "updated": "2026-09-22",
       "avatar": "https://avatars.githubusercontent.com/u/6134875?v=4"
-    },
-    {
-      "name": "ai-boost/awesome-harness-engineering",
-      "desc": "Awesome list for AI agent harness engineering: tools, patterns, evals, memory, MCP, permissions, observability, and orchestration.",
-      "stars": 4476,
-      "lang": "Python",
-      "url": "https://github.com/ai-boost/awesome-harness-engineering",
-      "updated": "2026-09-23",
-      "avatar": "https://avatars.githubusercontent.com/u/70333750?v=4"
     },
     {
       "name": "zudochkin/awesome-newsletters",
@@ -2562,7 +2562,7 @@
     {
       "name": "Astrosp/Awesome-OSINT-List",
       "desc": "📡 Comprehensive collection of OSINT tools for cybersecurity professionals, researchers, and bug bounty hunters. Topics: information gathering, reverse search, red team, trust & safety, AI.",
-      "stars": 4455,
+      "stars": 4456,
       "lang": "Shell",
       "url": "https://github.com/Astrosp/Awesome-OSINT-List",
       "updated": "2026-09-23",
@@ -2571,10 +2571,10 @@
     {
       "name": "AlexAnys/awesome-openclaw-usecases-zh",
       "desc": "🇨🇳 OpenClaw中文用例大全 | 50个真实场景 | 国内特色 + 海外案例的国内适配 | 自动化办公·内容创作·运维·AI助理·知识管理 | 新手友好",
-      "stars": 4447,
+      "stars": 4446,
       "lang": "",
       "url": "https://github.com/AlexAnys/awesome-openclaw-usecases-zh",
-      "updated": "2026-09-22",
+      "updated": "2026-09-23",
       "avatar": "https://avatars.githubusercontent.com/u/165750824?v=4"
     },
     {
@@ -2643,11 +2643,20 @@
     {
       "name": "wmariuss/awesome-devops",
       "desc": "A curated list of awesome DevOps platforms, tools, practices and resources",
-      "stars": 4383,
+      "stars": 4385,
       "lang": "Python",
       "url": "https://github.com/wmariuss/awesome-devops",
       "updated": "2026-09-23",
       "avatar": "https://avatars.githubusercontent.com/u/6131115?v=4"
+    },
+    {
+      "name": "brycewang-stanford/Auto-Empirical-Research-Skills",
+      "desc": "🔬 A curated collection of 23,000+ agent skills for empirical research across 8 social science disciplines. | 精选 23,000+ AI Agent 技能库，覆盖8大社会科学学科的实证研究。CoPaper.AI 20分钟完成一篇可复现的规范实证论文，并支持用户上传 Skills。-- Maintained by CoPaper.AI from Stanford REAP.",
+      "stars": 4355,
+      "lang": "Stata",
+      "url": "https://github.com/brycewang-stanford/Auto-Empirical-Research-Skills",
+      "updated": "2026-09-24",
+      "avatar": "https://avatars.githubusercontent.com/u/199214463?v=4"
     },
     {
       "name": "tortuvshin/open-apps",
@@ -2661,10 +2670,10 @@
     {
       "name": "Ravencentric/awesome-arr",
       "desc": "A collection of *arrs and related stuff.",
-      "stars": 4342,
+      "stars": 4343,
       "lang": "",
       "url": "https://github.com/Ravencentric/awesome-arr",
-      "updated": "2026-09-22",
+      "updated": "2026-09-23",
       "avatar": "https://avatars.githubusercontent.com/u/78981416?v=4"
     },
     {
@@ -2679,20 +2688,11 @@
     {
       "name": "danielecook/Awesome-Bioinformatics",
       "desc": "A curated list of awesome Bioinformatics libraries and software.",
-      "stars": 4301,
+      "stars": 4300,
       "lang": "",
       "url": "https://github.com/danielecook/Awesome-Bioinformatics",
       "updated": "2026-09-23",
       "avatar": "https://avatars.githubusercontent.com/u/1536935?v=4"
-    },
-    {
-      "name": "brycewang-stanford/Auto-Empirical-Research-Skills",
-      "desc": "🔬 A curated collection of 23,000+ agent skills for empirical research across 8 social science disciplines. | 精选 23,000+ AI Agent 技能库，覆盖8大社会科学学科的实证研究。CoPaper.AI 20分钟完成一篇可复现的规范实证论文，并支持用户上传 Skills。-- Maintained by CoPaper.AI from Stanford REAP.",
-      "stars": 4296,
-      "lang": "Stata",
-      "url": "https://github.com/brycewang-stanford/Auto-Empirical-Research-Skills",
-      "updated": "2026-09-23",
-      "avatar": "https://avatars.githubusercontent.com/u/199214463?v=4"
     },
     {
       "name": "pedramamini/awesome-yara",
